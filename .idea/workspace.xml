@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2ebcfb7-f315-4c1b-ae7c-e28b066d522f" name="Changes" comment="start convert audio to text">
-      <change afterPath="$PROJECT_DIR$/mycode/ch.py" afterDir="false" />
+    <list default="true" id="e2ebcfb7-f315-4c1b-ae7c-e28b066d522f" name="Changes" comment="transcribe ofline">
+      <change afterPath="$PROJECT_DIR$/mycode/connectToMDA.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mycode/speechOfline.py" beforeDir="false" afterPath="$PROJECT_DIR$/mycode/speechOfline.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.ch.executor": "Run",
+    "Python.connectToMDA.executor": "Run",
     "Python.convertSpeech.executor": "Run",
     "Python.speechOfline.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -79,11 +79,20 @@
       <option name="project" value="LOCAL" />
       <updated>1745484547460</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="transcribe ofline">
+      <option name="closed" value="true" />
+      <created>1745501554310</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745501554310</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start convert audio to text" />
-    <option name="LAST_COMMIT_MESSAGE" value="start convert audio to text" />
+    <MESSAGE value="transcribe ofline" />
+    <option name="LAST_COMMIT_MESSAGE" value="transcribe ofline" />
   </component>
 </project>
