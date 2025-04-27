@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2ebcfb7-f315-4c1b-ae7c-e28b066d522f" name="Changes" comment="contact mda">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e2ebcfb7-f315-4c1b-ae7c-e28b066d522f" name="Changes" comment="add auto location">
       <change beforePath="$PROJECT_DIR$/mycode/connectToMDA.py" beforeDir="false" afterPath="$PROJECT_DIR$/mycode/connectToMDA.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,13 +94,30 @@
       <option name="project" value="LOCAL" />
       <updated>1745518020447</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add auto location">
+      <option name="closed" value="true" />
+      <created>1745758222544</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745758222544</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add auto location">
+      <option name="closed" value="true" />
+      <created>1745758393028</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745758393028</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start convert audio to text" />
     <MESSAGE value="transcribe ofline" />
     <MESSAGE value="contact mda" />
-    <option name="LAST_COMMIT_MESSAGE" value="contact mda" />
+    <MESSAGE value="add auto location" />
+    <option name="LAST_COMMIT_MESSAGE" value="add auto location" />
   </component>
 </project>

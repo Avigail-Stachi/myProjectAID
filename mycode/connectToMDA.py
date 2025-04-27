@@ -72,6 +72,7 @@ text = ("Test message from a first-aid mobile app development project.\n"
 to_number = '+972527000101'  #SMS של מדא
 from_number = '+17753708117' #המספר twilio שלי
 
+
 # שליחת הודעה
 if ENV == "production":
     message = client.messages.create(
