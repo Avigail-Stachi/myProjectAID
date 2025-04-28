@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2ebcfb7-f315-4c1b-ae7c-e28b066d522f" name="Changes" comment="add auto location">
-      <change beforePath="$PROJECT_DIR$/mycode/connectToMDA.py" beforeDir="false" afterPath="$PROJECT_DIR$/mycode/connectToMDA.py" afterDir="false" />
+    <list default="true" id="e2ebcfb7-f315-4c1b-ae7c-e28b066d522f" name="Changes" comment="location auto to mda">
+      <change afterPath="$PROJECT_DIR$/mycode/model/model3clean.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mycode/model/myModel12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,18 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Avigail-Stachi"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Avigail-Stachi&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Avigail-Stachi/myProjectAID",
-    "accountId": "9e404ea9-cb4b-4ce8-b08b-a9b618b8a3d9"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Avigail-Stachi/myProjectAID&quot;,
+    &quot;accountId&quot;: &quot;9e404ea9-cb4b-4ce8-b08b-a9b618b8a3d9&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -48,12 +50,20 @@
     "Python.ch.executor": "Run",
     "Python.connectToMDA.executor": "Run",
     "Python.convertSpeech.executor": "Run",
+    "Python.model3clean.executor": "Run",
+    "Python.mymodel3E.executor": "Run",
     "Python.speechOfline.executor": "Run",
+    "Python.testModel3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\project\myModel\mycode\model" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -110,7 +120,31 @@
       <option name="project" value="LOCAL" />
       <updated>1745758393028</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add auto location">
+      <option name="closed" value="true" />
+      <created>1745758459695</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1745758459695</updated>
+    </task>
+    <task id="LOCAL-00007" summary="split the model">
+      <option name="closed" value="true" />
+      <created>1745853681103</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1745853681103</updated>
+    </task>
+    <task id="LOCAL-00008" summary="location auto to mda">
+      <option name="closed" value="true" />
+      <created>1745853739355</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1745853739355</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -118,6 +152,8 @@
     <MESSAGE value="transcribe ofline" />
     <MESSAGE value="contact mda" />
     <MESSAGE value="add auto location" />
-    <option name="LAST_COMMIT_MESSAGE" value="add auto location" />
+    <MESSAGE value="split the model" />
+    <MESSAGE value="location auto to mda" />
+    <option name="LAST_COMMIT_MESSAGE" value="location auto to mda" />
   </component>
 </project>
