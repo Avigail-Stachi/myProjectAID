@@ -1,3 +1,97 @@
+# import os
+# import argparse
+# from twilio.rest import Client
+# import geocoder
+# import gpsd
+# from geopy.geocoders import Nominatim
+#
+# # 1. פונקציית GPS
+# def get_location_gps():
+#     try:
+#         gpsd.connect()
+#         packet = gpsd.get_current()
+#         if packet.mode >= 2 and packet.lat is not None and packet.lon is not None:
+#             return [packet.lat, packet.lon]
+#     except Exception:
+#         pass
+#     return None
+#
+# # 2. פונקציית GeoIP fallback
+# def get_location_ip():
+#     g = geocoder.ip('me')
+#     if g.ok and g.latlng:
+#         return g.latlng
+#     return None
+#
+# # 3. הגדרה של GeoPy לשם reverse geocoding
+# geolocator = Nominatim(user_agent="myFirstAidApp")  # exige user_agent :contentReference[oaicite:2]{index=2}
+#
+# # 4. פרסינג ארגומנטים
+# parser = argparse.ArgumentParser(description="Send emergency SMS with location")
+# parser.add_argument('--lat', type=float, help='Latitude override')
+# parser.add_argument('--lng', type=float, help='Longitude override')
+# args = parser.parse_args()
+#
+# # 5. בחירת מקור מיקום
+# if args.lat is not None and args.lng is not None:
+#     lat, lng = args.lat, args.lng
+#     print(f"Manual override: {lat}, {lng}")
+# else:
+#     loc = get_location_gps()
+#     if loc:
+#         lat, lng = loc
+#         print(f"GPS fix: {lat}, {lng}")
+#     else:
+#         loc = get_location_ip()
+#         lat, lng = loc or (None, None)
+#         print(f"IP-based: {lat}, {lng}")
+#
+# # 6. שימוש ב-GeoPy ל־reverse geocoding (כתובת קריאה)
+# address = "Unknown location"
+# try:
+#     place = geolocator.reverse(f"{lat}, {lng}", exactly_one=True, timeout=10)
+#     if place and place.address:
+#         address = place.address
+# except Exception as e:
+#     print("Reverse geocode error:", e)
+#
+# # 7. אישור המשתמש
+# print(f"Detected location: {address}")
+# confirm = input("Is this your location? (y/n): ").strip().lower()
+# if confirm != 'y':
+#     address_input = input("Please enter your address manually: ")
+#     loc_manual = geolocator.geocode(address_input, exactly_one=True, timeout=10)
+#     if loc_manual:
+#         lat, lng = loc_manual.latitude, loc_manual.longitude
+#         address = loc_manual.address
+#         print(f"Using manual address: {address} -> ({lat}, {lng})")
+#
+# # 8. שליחת SMS דרך Twilio
+# ENV = os.getenv("APP_ENV", "development")
+# client = Client(os.getenv('TWILIO_SID'), os.getenv('TWILIO_TOKEN'))
+#
+# text = (
+#     "First-Aid Alert!\n"
+#     f"Situation: unconscious person.\n"
+#     f"Location: {address}\n"
+#     f"Map: https://maps.google.com/?q={lat},{lng}"
+# )
+# to_number   = '+972527000101'
+# from_number = '+17753708117'
+#
+# if ENV.lower() == "production":
+#     msg = client.messages.create(body=text, from_=from_number, to=to_number)
+#     print("SMS sent! SID:", msg.sid)
+# else:
+#     print("Dev mode—SMS not sent.")
+#     print(f"Simulated SMS:\n{text}")
+
+
+
+
+
+
+
 import os
 import argparse
 from twilio.rest import Client
