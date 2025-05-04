@@ -1,19 +1,27 @@
-import tensorflow as tf
+import os
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
+os.environ['TF_ENABLE_ONEDNN_OPTS'] = '0'
+
 import numpy as np
-import joblib  # טוען את ה־encoder
+import tensorflow as tf
 
-# טוען את המודל ואת ה־encoder
-model = tf.keras.models.load_model(r"C:\project\myModel\mycode\model\saved_model.keras")
-encoder = joblib.load(r"C:\project\myModel\mycode\model\encoder.pkl")  # טוען את ה־encoder
+model = tf.keras.models.load_model(
+    r"C:\project\myModel\mycode\model\saved_model_with_encoder.keras"
+)
 
-# טקסטים חדשים לניבוי
-new_texts = ["I was burned by boiling oil", "My friend swallowed a lot of water and is gasping for breath."]
-new_data = encoder(np.array(new_texts))  # הפעלת TextVectorization על הטקסטים החדשים
-predictions = model.predict(new_data)  # ביצוע ניבוי
+reverse_label_map = {0: 'Drowning', 1: 'Strangulation', 2: 'Burns'}
 
-# ממיר את התוצאות לסיווגים
-predicted_classes = np.argmax(predictions, axis=1)
+new_texts = [
+    "I saw someone choking and gasping for air.",
+    "The victim was unconscious after inhaling too much water."
+]
 
-# מציג את התוצאות
-for text, pred_class in zip(new_texts, predicted_classes):
-    print(f"Text: {text} -> Predicted Class: {pred_class}")
+new_texts_tensor = tf.constant(new_texts, dtype=tf.string)
+
+#  ניבוי
+pred_proba = model.predict(new_texts_tensor)
+pred_classes = np.argmax(pred_proba, axis=1) #axis=1 בשביל ניבוי על כל משפט
+
+for text, cls in zip(new_texts, pred_classes):
+    print(f"Text: {text}")
+    print(f"  → Predicted class #{cls}: {reverse_label_map[cls]}\n")

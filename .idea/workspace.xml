@@ -4,10 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2ebcfb7-f315-4c1b-ae7c-e28b066d522f" name="Changes" comment="location auto to mda">
-      <change afterPath="$PROJECT_DIR$/mycode/model/model3clean.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mycode/model/myModel12.py" afterDir="false" />
+    <list default="true" id="e2ebcfb7-f315-4c1b-ae7c-e28b066d522f" name="Changes" comment="datasets and stuff">
+      <change afterPath="$PROJECT_DIR$/mycode/Instructions_Aid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mycode/model/dic_cases.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/model/datasetAID3_updated.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/model/dic.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/model/emergency_dataset_shuffled_101.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/model/model3clean.py" beforeDir="false" afterPath="$PROJECT_DIR$/mycode/model/model3clean.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/model/saved_model_with_encoder.keras" beforeDir="false" afterPath="$PROJECT_DIR$/mycode/model/saved_model_with_encoder.keras" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/model/testModel3.py" beforeDir="false" afterPath="$PROJECT_DIR$/mycode/model/testModel3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +53,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Instructions_Aid.executor": "Run",
     "Python.ch.executor": "Run",
     "Python.connectToMDA.executor": "Run",
     "Python.convertSpeech.executor": "Run",
@@ -144,7 +151,31 @@
       <option name="project" value="LOCAL" />
       <updated>1745853739355</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="clean the model3 and improve">
+      <option name="closed" value="true" />
+      <created>1745880257920</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1745880257920</updated>
+    </task>
+    <task id="LOCAL-00010" summary="start model12">
+      <option name="closed" value="true" />
+      <created>1745880295164</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1745880295164</updated>
+    </task>
+    <task id="LOCAL-00011" summary="datasets and stuff">
+      <option name="closed" value="true" />
+      <created>1745880340135</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1745880340135</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -154,6 +185,9 @@
     <MESSAGE value="add auto location" />
     <MESSAGE value="split the model" />
     <MESSAGE value="location auto to mda" />
-    <option name="LAST_COMMIT_MESSAGE" value="location auto to mda" />
+    <MESSAGE value="clean the model3 and improve" />
+    <MESSAGE value="start model12" />
+    <MESSAGE value="datasets and stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="datasets and stuff" />
   </component>
 </project>
