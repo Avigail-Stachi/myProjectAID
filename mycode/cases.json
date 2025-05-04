@@ -1,0 +1,14 @@
+{
+    "CPR": 0,
+    "Fainting": 1,
+    "Drowning": 2,
+    "Electric shock": 3,
+    "Choking": 4,
+    "Rabies": 5,
+    "Bee sting": 6,
+    "Snake bite": 7,
+    "Scorpion sting": 8,
+    "Wounds": 9,
+    "Burns": 10,
+    "Fractures": 11
+}

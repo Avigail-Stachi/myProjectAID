@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2ebcfb7-f315-4c1b-ae7c-e28b066d522f" name="Changes" comment="datasets and stuff">
-      <change afterPath="$PROJECT_DIR$/mycode/Instructions_Aid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mycode/model/dic_cases.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mycode/model/datasetAID3_updated.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mycode/model/dic.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mycode/model/emergency_dataset_shuffled_101.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mycode/model/model3clean.py" beforeDir="false" afterPath="$PROJECT_DIR$/mycode/model/model3clean.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mycode/model/saved_model_with_encoder.keras" beforeDir="false" afterPath="$PROJECT_DIR$/mycode/model/saved_model_with_encoder.keras" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mycode/model/testModel3.py" beforeDir="false" afterPath="$PROJECT_DIR$/mycode/model/testModel3.py" afterDir="false" />
-    </list>
+    <list default="true" id="e2ebcfb7-f315-4c1b-ae7c-e28b066d522f" name="Changes" comment="clean the model, start to expend it to 12 categories, start intro" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,21 +41,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Instructions_Aid.executor": "Run",
-    "Python.ch.executor": "Run",
-    "Python.connectToMDA.executor": "Run",
-    "Python.convertSpeech.executor": "Run",
-    "Python.model3clean.executor": "Run",
-    "Python.mymodel3E.executor": "Run",
-    "Python.speechOfline.executor": "Run",
-    "Python.testModel3.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Instructions_Aid.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.connectToMDA.executor&quot;: &quot;Run&quot;,
+    &quot;Python.convertSpeech.executor&quot;: &quot;Run&quot;,
+    &quot;Python.model3clean.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mymodel3E.executor&quot;: &quot;Run&quot;,
+    &quot;Python.speechOfline.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testModel3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\project\myModel\mycode\model" />
@@ -175,7 +165,23 @@
       <option name="project" value="LOCAL" />
       <updated>1745880340135</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="change labels name">
+      <option name="closed" value="true" />
+      <created>1746361126229</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1746361126229</updated>
+    </task>
+    <task id="LOCAL-00013" summary="clean the model, start to expend it to 12 categories, start intro">
+      <option name="closed" value="true" />
+      <created>1746361177862</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1746361177862</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -188,6 +194,8 @@
     <MESSAGE value="clean the model3 and improve" />
     <MESSAGE value="start model12" />
     <MESSAGE value="datasets and stuff" />
-    <option name="LAST_COMMIT_MESSAGE" value="datasets and stuff" />
+    <MESSAGE value="change labels name" />
+    <MESSAGE value="clean the model, start to expend it to 12 categories, start intro" />
+    <option name="LAST_COMMIT_MESSAGE" value="clean the model, start to expend it to 12 categories, start intro" />
   </component>
 </project>
