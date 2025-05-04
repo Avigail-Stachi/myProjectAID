@@ -1,4 +1,5 @@
 import os
+
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 os.environ['TF_ENABLE_ONEDNN_OPTS'] = '0'
 
@@ -20,7 +21,7 @@ new_texts_tensor = tf.constant(new_texts, dtype=tf.string)
 
 #  ניבוי
 pred_proba = model.predict(new_texts_tensor)
-pred_classes = np.argmax(pred_proba, axis=1) #axis=1 בשביל ניבוי על כל משפט
+pred_classes = np.argmax(pred_proba, axis=1)  # axis=1 בשביל ניבוי על כל משפט
 
 for text, cls in zip(new_texts, pred_classes):
     print(f"Text: {text}")

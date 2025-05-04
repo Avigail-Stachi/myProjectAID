@@ -1,4 +1,6 @@
 import csv
+
+
 def load_cases_from_csv(file_path):
     cases = {}
     with open(file_path, mode='r', encoding='utf-8') as file:
@@ -9,9 +11,12 @@ def load_cases_from_csv(file_path):
     return cases
 
 
-file_path = r"C:\project\myModel\mycode\first_aid_treat.csv"
+file_path = r"C:\project\first_aid_treat_fix.csv"
 first_aid_cases = load_cases_from_csv(file_path)
+
+
 def what_to_do(case):
     print(first_aid_cases[case])
 
-what_to_do("Fractures")
+
+what_to_do("fractures")

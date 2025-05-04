@@ -1,14 +1,16 @@
 {
-    "CPR": 0,
-    "Fainting": 1,
-    "Drowning": 2,
-    "Electric shock": 3,
-    "Choking": 4,
-    "Rabies": 5,
-    "Bee sting": 6,
-    "Snake bite": 7,
-    "Scorpion sting": 8,
-    "Wounds": 9,
-    "Burns": 10,
-    "Fractures": 11
+    "cpr": 0,
+    "fainting": 1,
+    "drowning": 2,
+    "electric_shock": 3,
+    "choking": 4,
+    "rabies": 5,
+    "bee_sting": 6,
+    "snake_bite": 7,
+    "scorpion_sting": 8,
+    "wounds": 9,
+    "burns": 10,
+    "fractures": 11
 }
+
+

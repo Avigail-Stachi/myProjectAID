@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2ebcfb7-f315-4c1b-ae7c-e28b066d522f" name="Changes" comment="clean the model, start to expend it to 12 categories, start intro" />
+    <list default="true" id="e2ebcfb7-f315-4c1b-ae7c-e28b066d522f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/Instructions_Aid.py" beforeDir="false" afterPath="$PROJECT_DIR$/mycode/Instructions_Aid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/cases.json" beforeDir="false" afterPath="$PROJECT_DIR$/mycode/cases.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/ch.py" beforeDir="false" afterPath="$PROJECT_DIR$/mycode/ch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/emergency_cases_label_amb_fix.csv" beforeDir="false" afterPath="$PROJECT_DIR$/mycode/emergency_cases_label_amb_fix.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/model/testModel3.py" beforeDir="false" afterPath="$PROJECT_DIR$/mycode/model/testModel3.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +60,7 @@
     &quot;Python.testModel3.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -181,7 +188,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746361177862</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="c">
+      <option name="closed" value="true" />
+      <created>1746361210585</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1746361210585</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -196,6 +211,7 @@
     <MESSAGE value="datasets and stuff" />
     <MESSAGE value="change labels name" />
     <MESSAGE value="clean the model, start to expend it to 12 categories, start intro" />
-    <option name="LAST_COMMIT_MESSAGE" value="clean the model, start to expend it to 12 categories, start intro" />
+    <MESSAGE value="c" />
+    <option name="LAST_COMMIT_MESSAGE" value="c" />
   </component>
 </project>
