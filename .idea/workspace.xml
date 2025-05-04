@@ -4,13 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2ebcfb7-f315-4c1b-ae7c-e28b066d522f" name="Changes" comment="">
+    <list default="true" id="e2ebcfb7-f315-4c1b-ae7c-e28b066d522f" name="Changes" comment="change labels' names">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mycode/Instructions_Aid.py" beforeDir="false" afterPath="$PROJECT_DIR$/mycode/Instructions_Aid.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mycode/cases.json" beforeDir="false" afterPath="$PROJECT_DIR$/mycode/cases.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mycode/ch.py" beforeDir="false" afterPath="$PROJECT_DIR$/mycode/ch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mycode/emergency_cases_label_amb_fix.csv" beforeDir="false" afterPath="$PROJECT_DIR$/mycode/emergency_cases_label_amb_fix.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mycode/model/testModel3.py" beforeDir="false" afterPath="$PROJECT_DIR$/mycode/model/testModel3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/emergency_cases_label_amb.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/emergency_cases_label_amb_fix.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/saved_model.keras" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/am/final.mdl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/conf/mfcc.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/conf/model.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/graph/Gr.fst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/graph/HCLr.fst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/graph/disambig_tid.int" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/graph/phones/word_boundary.int" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/ivector/final.dubm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/ivector/final.ie" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/ivector/final.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/ivector/global_cmvn.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/ivector/online_cmvn.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/ivector/splice.conf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -196,8 +209,27 @@
       <option name="project" value="LOCAL" />
       <updated>1746361210585</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="change labels' names">
+      <option name="closed" value="true" />
+      <created>1746362991172</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1746362991172</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start convert audio to text" />
@@ -212,6 +244,7 @@
     <MESSAGE value="change labels name" />
     <MESSAGE value="clean the model, start to expend it to 12 categories, start intro" />
     <MESSAGE value="c" />
-    <option name="LAST_COMMIT_MESSAGE" value="c" />
+    <MESSAGE value="change labels' names" />
+    <option name="LAST_COMMIT_MESSAGE" value="change labels' names" />
   </component>
 </project>
