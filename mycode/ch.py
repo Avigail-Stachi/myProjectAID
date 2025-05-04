@@ -1,8 +1,19 @@
-import os
+import pandas as pd
+df=pd.read_csv(r"C:\project\myModel\mycode\emergency_cases_label_amb.csv")
+label_mapping = {
+    "CPR": "cpr",
+    "Fainting": "fainting",
+    "Drowning": "drowning",
+    "Electrocution": "electric_shock",
+    "Choking": "choking",
+    "Rabies": "rabies",
+    "Bee sting": "bee_sting",
+    "Snake bite": "snake_bite",
+    "Scorpion sting": "scorpion_sting",
+    "Wounds": "wounds",
+    "Burns": "burns",
+    "Fracture": "fractures"
+}
 
-model_path_vosk = r"C:\project\myModel\vosk-model-small-en-us-0.15"
-print("Exists? ", os.path.isdir(model_path_vosk))
-print("Contents:", os.listdir(model_path_vosk))
-for name in os.listdir(model_path_vosk):
-    full = os.path.join(model_path_vosk, name)
-    print(name, "is dir?", os.path.isdir(full))
+df["label"] = df["label"].map(label_mapping)
+df.to_csv(r"C:\project\myModel\mycode\emergency_cases_label_amb_fix.csv", index=False)
