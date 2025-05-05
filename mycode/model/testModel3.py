@@ -7,7 +7,7 @@ import numpy as np
 import tensorflow as tf
 
 model = tf.keras.models.load_model(
-    r"C:\project\myModel\mycode\model\saved_model_with_encoder.keras"
+    r"C:\project\projectAID\mycode\model\saved_model_with_encoder.keras"
 )
 
 reverse_label_map = {0: 'Drowning', 1: 'Strangulation', 2: 'Burns'}

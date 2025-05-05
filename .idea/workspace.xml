@@ -4,26 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2ebcfb7-f315-4c1b-ae7c-e28b066d522f" name="Changes" comment="change labels' names">
+    <list default="true" id="e2ebcfb7-f315-4c1b-ae7c-e28b066d522f" name="Changes" comment="change places">
+      <change afterPath="$PROJECT_DIR$/mycode/blur_images.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mycode/cnn/organize_dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mycode/expend_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mycode/model/predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/myModel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/myModel.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mycode.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mycode/emergency_cases_label_amb.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mycode/emergency_cases_label_amb_fix.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/saved_model.keras" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/README" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/am/final.mdl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/conf/mfcc.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/conf/model.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/graph/Gr.fst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/graph/HCLr.fst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/graph/disambig_tid.int" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/graph/phones/word_boundary.int" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/ivector/final.dubm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/ivector/final.ie" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/ivector/final.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/ivector/global_cmvn.stats" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/ivector/online_cmvn.conf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/ivector/splice.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/cases.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/ch.py" beforeDir="false" afterPath="$PROJECT_DIR$/mycode/ch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/model/testModel3.py" beforeDir="false" afterPath="$PROJECT_DIR$/mycode/model/testModel3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/speechOfline.py" beforeDir="false" afterPath="$PROJECT_DIR$/mycode/speechOfline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/am/final.mdl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/conf/mfcc.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/conf/model.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/graph/Gr.fst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/graph/HCLr.fst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/graph/disambig_tid.int" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/graph/phones/word_boundary.int" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/ivector/final.dubm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/ivector/final.ie" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/ivector/final.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/ivector/global_cmvn.stats" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/ivector/online_cmvn.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/vosk-model-small-en-us-0.15/vosk-model-small-en-us-0.15/ivector/splice.conf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +54,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Avigail-Stachi/myProjectAID&quot;,
+    &quot;url&quot;: &quot;https://github.com/Avigail-Stachi/myProjectAID.git&quot;,
     &quot;accountId&quot;: &quot;9e404ea9-cb4b-4ce8-b08b-a9b618b8a3d9&quot;
   }
 }</component>
@@ -69,10 +75,12 @@
     &quot;Python.convertSpeech.executor&quot;: &quot;Run&quot;,
     &quot;Python.model3clean.executor&quot;: &quot;Run&quot;,
     &quot;Python.mymodel3E.executor&quot;: &quot;Run&quot;,
+    &quot;Python.organize_dataset.executor&quot;: &quot;Run&quot;,
     &quot;Python.speechOfline.executor&quot;: &quot;Run&quot;,
     &quot;Python.testModel3.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/project/projectAID&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
@@ -217,7 +225,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746362991172</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="change places">
+      <option name="closed" value="true" />
+      <created>1746366596001</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1746366596001</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -245,6 +261,7 @@
     <MESSAGE value="clean the model, start to expend it to 12 categories, start intro" />
     <MESSAGE value="c" />
     <MESSAGE value="change labels' names" />
-    <option name="LAST_COMMIT_MESSAGE" value="change labels' names" />
+    <MESSAGE value="change places" />
+    <option name="LAST_COMMIT_MESSAGE" value="change places" />
   </component>
 </project>
