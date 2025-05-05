@@ -34,9 +34,9 @@ def transcribe_audio(wav_path, model_path_vosk):
     result = json.loads(rec.FinalResult()) #ממיר למילון
     return result.get("text", "")
 
-model_path_vosk = r"C:\project\myModel\vosk-model-small-en-us-0.15\vosk-model-small-en-us-0.15"
-input_path = r"C:\Users\User\Documents\Sound Recordings\Recording.m4a"  # אפשר כל סוג
-wav_path = r"C:\project\myModel\mycode.wav"
+model_path_vosk = r"C:\project\projectAID\mycode\vosk-model-small-en-us-0.15\vosk-model-small-en-us-0.15"
+input_path = r"C:\Users\User\Documents\Sound Recordings\Recording (3).m4a" # אפשר כל סוג
+wav_path = r"C:\project\projectAID\data\file1.wav"
 convert_format(input_path, wav_path)
 text = transcribe_audio(wav_path, model_path_vosk)
 print("Recognized text:", text)
