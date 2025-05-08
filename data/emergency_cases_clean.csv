@@ -1,0 +1,733 @@
+text,label,need_amb,source,is_synthetic
+"Man in 50s collapsed at restaurant - no pulse, skin pale and clammy",cpr,1,https://www.redcross.org,0
+"Infant choking on small toy part - weak cough, lips turning blue",choking,1,(Synthetic),1
+Teen girl fainted after blood draw - woke up dizzy but oriented,fainting,0,https://www.nhs.uk,0
+"Electrician got shocked by panel - burn marks on hands, complaining of chest pain",electric_shock,1,(Synthetic),1
+Deep knife wound from kitchen accident - blood soaking through 3 towels,wounds,1,https://www.who.int,0
+Hiker bitten by rattlesnake - severe swelling and nausea within 10 minutes,snake_bite,1,(Synthetic),1
+"Known bee allergy - stung on neck, face swelling rapidly",bee_sting,1,https://www.cdc.gov,0
+Scorpion sting on foot - sharp pain radiating up leg,scorpion_sting,1,(Synthetic),1
+Boiling water spill on toddler - red skin with blistering on arm,burns,1,https://www.redcross.org,0
+"Child found floating in pool - unresponsive, not breathing",drowning,1,(Synthetic),1
+"Fell from bike - arm bent at unnatural angle, bone possibly broken",fractures,1,https://www.nhs.uk,0
+Bat bite while sleeping - small puncture on shoulder,rabies,1,(Synthetic),1
+Elderly man collapsed in park - bystanders doing CPR until EMS arrives,cpr,1,https://www.redcross.org,0
+"Choking on piece of steak - can't speak, panicking",choking,1,(Synthetic),1
+Woman passed out from heat - now awake but confused,fainting,0,https://www.who.int,0
+Minor shock from appliance - small burn on fingers,electric_shock,0,(Synthetic),1
+Glass shard cut - bleeding controlled with pressure,wounds,0,https://www.redcross.org,0
+"Non-venomous snake bite - small marks, no swelling",snake_bite,0,(Synthetic),1
+Single wasp sting - local redness only,bee_sting,0,https://www.cdc.gov,0
+Mild scorpion sting - pain localized to area,scorpion_sting,0,(Synthetic),1
+"Small cooking oil burn - red skin, no blisters",burns,0,https://www.redcross.org,0
+Child swallowed pool water - coughing but alert,drowning,0,(Synthetic),1
+Twisted ankle - swelling but can bear weight,fractures,0,https://www.nhs.uk,0
+Dog scratch from vaccinated pet - minor break in skin,rabies,0,(Synthetic),1
+"Unresponsive newborn - turning blue, mother performing rescue breaths",cpr,1,https://www.redcross.org,0
+Baby choking on cereal - gagging but still breathing,choking,1,(Synthetic),1
+Man fainted after seeing blood - woke up immediately,fainting,0,https://www.who.int,0
+Static shock from carpet - no injury,electric_shock,0,(Synthetic),1
+Paper cut - minor bleeding stopped,wounds,0,https://www.redcross.org,0
+Garter snake bite - no symptoms,snake_bite,0,(Synthetic),1
+Honeybee sting - normal local reaction,bee_sting,0,https://www.cdc.gov,0
+"Scorpion sting - mild pain, no other symptoms",scorpion_sting,0,(Synthetic),1
+Sunburn - red skin on shoulders,burns,0,https://www.redcross.org,0
+Swimmer inhaled water - coughing but okay,drowning,0,(Synthetic),1
+Stubbed toe - painful but no deformity,fractures,0,https://www.nhs.uk,0
+Pet cat scratch - no rabies concern,rabies,0,(Synthetic),1
+Cardiac arrest in gym - AED being used,cpr,1,https://www.redcross.org,0
+Choking on hard candy - can't dislodge it,choking,1,(Synthetic),1
+Fainted from dehydration - now drinking water,fainting,0,https://www.who.int,0
+Small electric shock - startled but unharmed,electric_shock,0,(Synthetic),1
+Splinter in finger - minor bleeding,wounds,0,https://www.redcross.org,0
+Water snake bite - no venom symptoms,snake_bite,0,(Synthetic),1
+Single bee sting - normal reaction,bee_sting,0,https://www.cdc.gov,0
+Mild scorpion sting - ice helping pain,scorpion_sting,0,(Synthetic),1
+Touched hot pan - small red mark,burns,0,https://www.redcross.org,0
+Child went underwater briefly - scared but fine,drowning,0,(Synthetic),1
+Possible sprained wrist - swelling,fractures,0,https://www.nhs.uk,0
+Hamster bite - no rabies risk,rabies,0,(Synthetic),1
+Drowning victim pulled from lake - CPR in progress,cpr,1,https://www.redcross.org,0
+Choking on popcorn - can't breathe,choking,1,(Synthetic),1
+Fainted during concert - overheated,fainting,0,https://www.who.int,0
+Minor shock from outlet - startled,electric_shock,0,(Synthetic),1
+Small cut from razor - bandaged,wounds,0,https://www.redcross.org,0
+Garden snake bite - no concern,snake_bite,0,(Synthetic),1
+Wasp sting - local reaction,bee_sting,0,https://www.cdc.gov,0
+Scorpion sting - child crying,scorpion_sting,1,(Synthetic),1
+Steam burn on finger - red,burns,0,https://www.redcross.org,0
+Swimmer got water in lungs - coughing,drowning,0,(Synthetic),1
+Stubbed finger - painful but fine,fractures,0,https://www.nhs.uk,0
+Pet bird peck - no rabies risk,rabies,0,(Synthetic),1
+"Construction worker found unconscious - no pulse, coworkers starting CPR",cpr,1,https://www.osha.gov,0
+"Baby choking on small candy - weak cough, face turning pale",choking,1,(Synthetic),1
+Elderly woman fainted in church - awake but confused,fainting,0,https://www.nhs.uk,0
+Teen shocked by phone charger - small burn on fingers,electric_shock,0,(Synthetic),1
+Deep cut from broken mirror - bleeding heavily,wounds,1,https://www.redcross.org,0
+Copperhead bite while gardening - swelling spreading fast,snake_bite,1,(Synthetic),1
+"Multiple bee stings - known allergy, using EpiPen",bee_sting,1,https://www.cdc.gov,0
+Scorpion sting on hand - numbness moving up arm,scorpion_sting,1,(Synthetic),1
+Hot oil burn on face - blisters forming,burns,1,https://www.redcross.org,0
+Child submerged in bathtub - pulled out unconscious,drowning,1,(Synthetic),1
+Fell from tree - leg deformed at odd angle,fractures,1,https://www.nhs.uk,0
+Bat contact during sleep - small bite mark found,rabies,1,(Synthetic),1
+Man collapsed at bus stop - bystanders doing compressions,cpr,1,https://www.redcross.org,0
+"Choking on grape - can't speak, panicking",choking,1,(Synthetic),1
+Fainted after vaccine - now alert,fainting,0,https://www.who.int,0
+Minor shock from appliance - no visible injury,electric_shock,0,(Synthetic),1
+Fish hook embedded in thumb - deep puncture,wounds,1,https://www.redcross.org,0
+Non-venomous snake bite - small marks,snake_bite,0,(Synthetic),1
+Wasp sting - local swelling only,bee_sting,0,https://www.cdc.gov,0
+Infant not breathing after choking incident - mother performing rescue breaths,cpr,1,https://www.redcross.org,0
+Choking on piece of apple - coughing forcefully but still breathing,choking,0,(Synthetic),1
+Man fainted during blood test - regained consciousness quickly,fainting,0,https://www.nhs.uk,0
+Electric shock from faulty appliance - minor burn on palm,electric_shock,0,(Synthetic),1
+Deep cut from kitchen knife - bleeding controlled with pressure,wounds,1,https://www.who.int,0
+Possible venomous snake bite - severe pain and swelling,snake_bite,1,(Synthetic),1
+Bee sting on eyelid - eye swelling shut,bee_sting,1,https://www.cdc.gov,0
+Scorpion sting with tingling in fingers,scorpion_sting,1,(Synthetic),1
+Hot grease burn on arm - second degree burns,burns,1,https://www.redcross.org,0
+Child pulled from pool - coughing up water,drowning,0,(Synthetic),1
+Possible broken wrist after fall,fractures,1,https://www.nhs.uk,0
+Dog bite from unknown stray animal,rabies,1,(Synthetic),1
+Unresponsive patient in nursing home - staff initiating CPR,cpr,1,https://www.redcross.org,0
+Choking on chewing gum - can't clear airway,choking,1,(Synthetic),1
+Teen fainted during sports game - now alert,fainting,0,https://www.who.int,0
+Minor static shock - no injury,electric_shock,0,(Synthetic),1
+Glass shard wound - bleeding moderately,wounds,1,https://www.redcross.org,0
+Non-venomous garden snake bite,snake_bite,0,(Synthetic),1
+Single wasp sting - normal reaction,bee_sting,0,https://www.cdc.gov,0
+Scorpion sting with localized pain only,scorpion_sting,0,(Synthetic),1
+Small steam burn on hand,burns,0,https://www.redcross.org,0
+Twisted ankle - painful but can walk,fractures,0,https://www.nhs.uk,0
+Pet cat scratch - minimal bleeding,rabies,0,(Synthetic),1
+Cardiac arrest victim - bystander CPR in progress,cpr,1,https://www.redcross.org,0
+Choking on piece of meat - unable to speak,choking,1,(Synthetic),1
+Woman fainted from heat - now conscious,fainting,0,https://www.who.int,0
+Small electric shock - no visible injury,electric_shock,0,(Synthetic),1
+Paper cut - minor bleeding,wounds,0,https://www.redcross.org,0
+Harmless snake bite - no symptoms,snake_bite,0,(Synthetic),1
+Honeybee sting - normal reaction,bee_sting,0,https://www.cdc.gov,0
+Mild scorpion sting - ice helping,scorpion_sting,0,(Synthetic),1
+Sunburn on shoulders - painful,burns,0,https://www.redcross.org,0
+Child swallowed pool water - coughing,drowning,0,(Synthetic),1
+Stubbed toe - painful but fine,fractures,0,https://www.nhs.uk,0
+Vaccinated pet dog bite,rabies,0,(Synthetic),1
+Unresponsive newborn - turning blue,cpr,1,https://www.redcross.org,0
+Baby choking on cereal - gagging,choking,1,(Synthetic),1
+Man fainted after seeing blood,fainting,0,https://www.who.int,0
+Static shock from carpet,electric_shock,0,(Synthetic),1
+Splinter in finger - minor,wounds,0,https://www.redcross.org,0
+Garter snake bite - no concern,snake_bite,0,(Synthetic),1
+Single bee sting - normal,bee_sting,0,https://www.cdc.gov,0
+Scorpion sting - mild pain,scorpion_sting,0,(Synthetic),1
+Touched hot pan - small burn,burns,0,https://www.redcross.org,0
+Child went underwater briefly,drowning,0,(Synthetic),1
+Possible sprained wrist,fractures,0,https://www.nhs.uk,0
+Hamster bite - no risk,rabies,0,(Synthetic),1
+Drowning victim - CPR ongoing,cpr,1,https://www.redcross.org,0
+Choking on popcorn - distressed,choking,1,(Synthetic),1
+Fainted during concert,fainting,0,https://www.who.int,0
+Minor shock from outlet,electric_shock,0,(Synthetic),1
+Small cut from razor,wounds,0,https://www.redcross.org,0
+Garden snake bite,snake_bite,0,(Synthetic),1
+Steam burn on finger,burns,0,https://www.redcross.org,0
+Swimmer got water in lungs,drowning,0,(Synthetic),1
+Stubbed finger - painful,fractures,0,https://www.nhs.uk,0
+Pet bird peck - no risk,rabies,0,(Synthetic),1
+Construction worker unconscious after fall - no pulse detected,cpr,1,https://www.osha.gov,0
+Toddler coughing weakly after swallowing button battery,choking,1,(Synthetic),1
+Elderly man passed out in synagogue - awake but disoriented,fainting,0,https://www.nhs.uk,0
+Child bit into charging cable - small burn on tongue,electric_shock,0,(Synthetic),1
+Deep laceration from chainsaw - blood spurting rhythmically,wounds,1,https://www.redcross.org,0
+Intense pain and swelling after suspected viper bite,snake_bite,1,(Synthetic),1
+Face swelling rapidly after bee sting - known allergy,bee_sting,1,https://www.cdc.gov,0
+Scorpion sting with muscle spasms in leg,scorpion_sting,1,(Synthetic),1
+Hot cooking oil splash - second-degree burns on arm,burns,1,https://www.redcross.org,0
+"Teen pulled from lake - not breathing, pupils fixed",drowning,1,(Synthetic),1
+Compound fracture visible after motorcycle crash,fractures,1,https://www.nhs.uk,0
+Bat found in child's bedroom - small bite on cheek,rabies,1,(Synthetic),1
+Man collapsed at gym - bystander performing chest compressions,cpr,1,https://www.redcross.org,0
+Choking on gummy candy - can't cough or speak,choking,1,(Synthetic),1
+Fainted during vaccination - now alert but pale,fainting,0,https://www.who.int,0
+Tingling sensation after minor kitchen appliance shock,electric_shock,0,(Synthetic),1
+Fishhook deeply embedded in thumb - bleeding moderately,wounds,1,https://www.redcross.org,0
+Two small puncture wounds after gardening - no swelling yet,snake_bite,0,(Synthetic),1
+Single wasp sting - localized redness and itching,bee_sting,0,https://www.cdc.gov,0
+Mild scorpion sting - pain subsiding with ice,scorpion_sting,0,(Synthetic),1
+Sunburn with blistering on shoulders,burns,0,https://www.redcross.org,0
+Child inhaled pool water - coughing but responsive,drowning,0,(Synthetic),1
+Twisted knee after fall - swelling but can bear weight,fractures,0,https://www.nhs.uk,0
+Superficial scratch from vaccinated house cat,rabies,0,(Synthetic),1
+Newborn not breathing after difficult delivery,cpr,1,https://www.redcross.org,0
+Baby gagging on piece of hot dog - weak cough,choking,1,(Synthetic),1
+Fainted briefly after blood draw - now normal,fainting,0,https://www.who.int,0
+Static shock from office chair - no injury,electric_shock,0,(Synthetic),1
+Glass shard in foot - minor bleeding,wounds,0,https://www.redcross.org,0
+Non-venomous snake bite - no symptoms,snake_bite,0,(Synthetic),1
+Bee sting - normal local reaction,bee_sting,0,https://www.cdc.gov,0
+Scorpion sting - mild discomfort only,scorpion_sting,0,(Synthetic),1
+Touched hot stove - small red mark,burns,0,https://www.redcross.org,0
+Swimmer coughed up water after brief submersion,drowning,0,(Synthetic),1
+Pet hamster nibbled finger - no break in skin,rabies,0,(Synthetic),1
+Unresponsive diabetic with no pulse,cpr,1,https://www.redcross.org,0
+Choking on ice cube - can't clear airway,choking,1,(Synthetic),1
+Fainted from heat exhaustion - now drinking water,fainting,0,https://www.who.int,0
+Small shock from laptop charger - startled,electric_shock,0,(Synthetic),1
+Paper cut - stopped bleeding,wounds,0,https://www.redcross.org,0
+Wasp sting - mild swelling,bee_sting,0,https://www.cdc.gov,0
+Scorpion sting - child calmed after ice pack,scorpion_sting,0,(Synthetic),1
+Steam burn while cooking - red skin,burns,0,https://www.redcross.org,0
+Swallowed pool water - mild coughing,drowning,0,(Synthetic),1
+Sprained wrist after fall,fractures,0,https://www.nhs.uk,0
+Pet bird pecked finger - no wound,rabies,0,(Synthetic),1
+Cardiac arrest during marathon - CPR in progress,cpr,1,https://www.redcross.org,0
+Choking on popcorn - panicking,choking,1,(Synthetic),1
+Minor outlet shock - no burn,electric_shock,0,(Synthetic),1
+Small razor nick - bandaged,wounds,0,https://www.redcross.org,0
+Garden snake bite - harmless,snake_bite,0,(Synthetic),1
+Single hornet sting - normal reaction,bee_sting,0,https://www.cdc.gov,0
+Scorpion sting - child stopped crying after medication,scorpion_sting,0,(Synthetic),1
+Brief contact with hot pan,burns,0,https://www.redcross.org,0
+Inhaled small amount of pool water,drowning,0,(Synthetic),1
+Stubbed finger - no swelling,fractures,0,https://www.nhs.uk,0
+Guinea pig scratch - superficial,rabies,0,(Synthetic),1
+"Jogger collapsed in park - no pulse, passerby starting chest compressions",cpr,1,https://www.redcross.org,0
+"Baby choking on grape - lips turning blue, weak cough",choking,1,(Synthetic),1
+Woman fainted at wedding - woke up dizzy but oriented,fainting,0,https://www.nhs.uk,0
+Electric shock from exposed wires - minor hand burns,electric_shock,1,(Synthetic),1
+Deep cut from broken bottle - arterial bleeding,wounds,1,https://www.who.int,0
+Snake bite while camping - severe swelling and nausea,snake_bite,1,(Synthetic),1
+"Multiple bee stings - throat tightening, known allergy",bee_sting,1,https://www.cdc.gov,0
+Scorpion sting with numbness spreading up arm,scorpion_sting,1,(Synthetic),1
+Chemical burn from cleaning product - skin peeling,burns,1,https://www.redcross.org,0
+Child submerged in pool for 1 minute - unresponsive,drowning,1,(Synthetic),1
+"Fell from ladder - deformed femur, bone visible",fractures,1,https://www.nhs.uk,0
+Bat bite during sleep - small puncture on neck,rabies,1,(Synthetic),1
+Man in cardiac arrest - AED being applied,cpr,1,https://www.redcross.org,0
+Choking on hard candy - unable to breathe,choking,1,(Synthetic),1
+Teen fainted after piercing - now alert,fainting,0,https://www.who.int,0
+Minor shock from appliance - tingling fingers,electric_shock,0,(Synthetic),1
+Knife wound while cooking - deep cut on palm,wounds,1,https://www.redcross.org,0
+Wasp sting - local redness and swelling,bee_sting,0,https://www.cdc.gov,0
+"Scorpion sting - mild pain, no systemic symptoms",scorpion_sting,0,(Synthetic),1
+Hot water spill - first-degree burn on arm,burns,0,https://www.redcross.org,0
+Swimmer inhaled water - coughing but responsive,drowning,0,(Synthetic),1
+Twisted ankle - swollen but can walk,fractures,0,https://www.nhs.uk,0
+Pet dog scratch - vaccinated animal,rabies,0,(Synthetic),1
+Unresponsive infant - mother performing rescue breaths,cpr,1,https://www.redcross.org,0
+Choking on piece of apple - gagging but breathing,choking,0,(Synthetic),1
+Fainted after seeing blood - now normal,fainting,0,https://www.who.int,0
+Static shock from doorknob - no injury,electric_shock,0,(Synthetic),1
+Scorpion sting - child calmed with ice,scorpion_sting,0,(Synthetic),1
+"Sunburn - red skin, no blisters",burns,0,https://www.redcross.org,0
+Child swallowed pool water - mild coughing,drowning,0,(Synthetic),1
+Stubbed toe - painful but mobile,fractures,0,https://www.nhs.uk,0
+Pet cat scratch - superficial,rabies,0,(Synthetic),1
+"Elderly man collapsed - no pulse, CPR initiated",cpr,1,https://www.redcross.org,0
+Choking on popcorn - distressed but coughing,choking,1,(Synthetic),1
+Fainted during heatwave - now drinking water,fainting,0,https://www.who.int,0
+Small electric shock - no burns,electric_shock,0,(Synthetic),1
+Splinter in finger - removed,wounds,0,https://www.redcross.org,0
+Water snake bite - no concern,snake_bite,0,(Synthetic),1
+Honeybee sting - mild swelling,bee_sting,0,https://www.cdc.gov,0
+Scorpion sting - local pain only,scorpion_sting,0,(Synthetic),1
+Brief underwater submersion - no distress,drowning,0,(Synthetic),1
+Possible wrist sprain - mild swelling,fractures,0,https://www.nhs.uk,0
+Pet rabbit scratch - no risk,rabies,0,(Synthetic),1
+Unresponsive patient - EMS performing CPR,cpr,1,https://www.redcross.org,0
+Choking on chewing gum - panicking,choking,1,(Synthetic),1
+Fainted after vaccine - recovered quickly,fainting,0,https://www.who.int,0
+Minor static shock - startled,electric_shock,0,(Synthetic),1
+Small cut from scissors - bandaged,wounds,0,https://www.redcross.org,0
+Wasp sting - normal reaction,bee_sting,0,https://www.cdc.gov,0
+Scorpion sting - mild discomfort,scorpion_sting,0,(Synthetic),1
+Swallowed small amount of pool water,drowning,0,(Synthetic),1
+Stubbed finger - no deformity,fractures,0,https://www.nhs.uk,0
+Pet bird peck - superficial,rabies,0,(Synthetic),1
+Man found unresponsive in office - coworkers starting CPR,cpr,1,https://www.redcross.org,0
+Toddler choking on small toy - weak cough and pale skin,choking,1,(Synthetic),1
+Elderly woman fainted while shopping - conscious but confused,fainting,0,https://www.nhs.uk,0
+Minor electric shock from appliance - small burn on fingers,electric_shock,0,(Synthetic),1
+Deep cut from kitchen knife - bleeding through bandages,wounds,1,https://www.redcross.org,0
+Snake bite while hiking - severe pain and swelling,snake_bite,1,(Synthetic),1
+Scorpion sting with tingling in fingers and nausea,scorpion_sting,1,(Synthetic),1
+Hot oil burn on arm - second degree burns with blisters,burns,1,https://www.redcross.org,0
+"Child pulled from pool - not breathing, lips blue",drowning,1,(Synthetic),1
+"Fell from bicycle - deformed wrist, possible fracture",fractures,1,https://www.nhs.uk,0
+Bat found in bedroom - small bite mark on arm,rabies,1,(Synthetic),1
+Cardiac arrest in supermarket - bystander performing CPR,cpr,1,https://www.redcross.org,0
+Choking on piece of meat - unable to speak or cough,choking,1,(Synthetic),1
+Teen fainted after vaccination - now alert,fainting,0,https://www.who.int,0
+Small electric shock from device - no visible injury,electric_shock,0,(Synthetic),1
+Deep glass cut - bleeding heavily despite pressure,wounds,1,https://www.redcross.org,0
+Non-venomous snake bite - minor puncture wounds,snake_bite,0,(Synthetic),1
+Single wasp sting - localized swelling,bee_sting,0,https://www.cdc.gov,0
+Steam burn while cooking - reddened skin,burns,0,https://www.redcross.org,0
+Child swallowed pool water - coughing but responsive,drowning,0,(Synthetic),1
+Twisted ankle - swollen but able to walk,fractures,0,https://www.nhs.uk,0
+Pet cat scratch - superficial wound,rabies,0,(Synthetic),1
+"Unresponsive newborn - turning blue, rescue breaths given",cpr,1,https://www.redcross.org,0
+Man fainted after blood test - now conscious,fainting,0,https://www.who.int,0
+"Scorpion sting - mild pain, ice helping",scorpion_sting,0,(Synthetic),1
+Possible sprained wrist - mild swelling,fractures,0,https://www.nhs.uk,0
+Hamster bite - no break in skin,rabies,0,(Synthetic),1
+Drowning victim pulled from lake - CPR ongoing,cpr,1,https://www.redcross.org,0
+"Construction worker unconscious - no pulse, CPR started",cpr,1,https://www.osha.gov,0
+Infant choking on small candy - weak cough,choking,1,(Synthetic),1
+Elderly man fainted in church - awake but confused,fainting,0,https://www.nhs.uk,0
+Teen shocked by phone charger - small burn,electric_shock,0,(Synthetic),1
+Deep cut from broken mirror - bleeding,wounds,1,https://www.redcross.org,0
+Copperhead bite while gardening - swelling,snake_bite,1,(Synthetic),1
+Multiple bee stings - allergic reaction,bee_sting,1,https://www.cdc.gov,0
+Scorpion sting on hand - numbness,scorpion_sting,1,(Synthetic),1
+Hot oil burn on face - blisters,burns,1,https://www.redcross.org,0
+Child submerged in bathtub - unconscious,drowning,1,(Synthetic),1
+Fell from tree - leg deformed,fractures,1,https://www.nhs.uk,0
+Bat contact during sleep - bite mark,rabies,1,(Synthetic),1
+"Jogger collapsed on trail - no pulse, starting CPR",cpr,1,https://www.redcross.org,0
+Child choking on grape - lips turning pale,choking,1,(Synthetic),1
+Woman fainted at concert - regained consciousness,fainting,0,https://www.nhs.uk,0
+Electric shock from outlet - minor finger burn,electric_shock,0,(Synthetic),1
+Deep knife wound - blood soaking through shirt,wounds,1,https://www.redcross.org,0
+Rattlesnake bite while hiking - severe swelling,snake_bite,1,(Synthetic),1
+Scorpion sting with muscle twitching,scorpion_sting,1,(Synthetic),1
+Boiling water spill - second degree arm burns,burns,1,https://www.redcross.org,0
+Teen pulled from pool - not breathing,drowning,1,(Synthetic),1
+Fell from ladder - deformed ankle,fractures,1,https://www.nhs.uk,0
+Bat bite while sleeping - small puncture wound,rabies,1,(Synthetic),1
+"Man collapsed at gym - no pulse, CPR in progress",cpr,1,https://www.redcross.org,0
+Choking on candy - unable to cough,choking,1,(Synthetic),1
+Fainted after blood draw - now alert,fainting,0,https://www.who.int,0
+Minor appliance shock - tingling sensation,electric_shock,0,(Synthetic),1
+Fishhook embedded deep in thumb,wounds,1,https://www.redcross.org,0
+Wasp sting - local redness,bee_sting,0,https://www.cdc.gov,0
+Scorpion sting - mild pain only,scorpion_sting,0,(Synthetic),1
+Hot pan burn - reddened skin,burns,0,https://www.redcross.org,0
+Child inhaled pool water - coughing,drowning,0,(Synthetic),1
+Twisted knee - swollen but mobile,fractures,0,https://www.nhs.uk,0
+Newborn not breathing - rescue breaths given,cpr,1,https://www.redcross.org,0
+Baby choking on food - gagging,choking,0,(Synthetic),1
+Fainted after vaccine - recovered,fainting,0,https://www.who.int,0
+Static shock - no injury,electric_shock,0,(Synthetic),1
+Paper cut - minor,wounds,0,https://www.redcross.org,0
+Scorpion sting - ice helping,scorpion_sting,0,(Synthetic),1
+Sunburn - red shoulders,burns,0,https://www.redcross.org,0
+Swallowed pool water - mild cough,drowning,0,(Synthetic),1
+Stubbed toe - painful,fractures,0,https://www.nhs.uk,0
+Elderly collapse - CPR started,cpr,1,https://www.redcross.org,0
+Fainted in heat - recovered,fainting,0,https://www.who.int,0
+Small shock - no burn,electric_shock,0,(Synthetic),1
+Splinter - removed,wounds,0,https://www.redcross.org,0
+Water snake bite - fine,snake_bite,0,(Synthetic),1
+Honeybee sting - mild,bee_sting,0,https://www.cdc.gov,0
+Scorpion sting - local pain,scorpion_sting,0,(Synthetic),1
+Hot pan touch - red,burns,0,https://www.redcross.org,0
+Brief submersion - okay,drowning,0,(Synthetic),1
+Wrist sprain - swollen,fractures,0,https://www.nhs.uk,0
+Rabbit scratch - none,rabies,0,(Synthetic),1
+Unresponsive - CPR,cpr,1,https://www.redcross.org,0
+Choking on gum - panicking,choking,1,(Synthetic),1
+Fainted post-vaccine - fine,fainting,0,https://www.who.int,0
+Static - nothing,electric_shock,0,(Synthetic),1
+Small cut - bandaged,wounds,0,https://www.redcross.org,0
+Garter snake - okay,snake_bite,0,(Synthetic),1
+Wasp - normal,bee_sting,0,https://www.cdc.gov,0
+Scorpion - mild,scorpion_sting,0,(Synthetic),1
+Steam - red,burns,0,https://www.redcross.org,0
+Water in lungs - coughing,drowning,0,(Synthetic),1
+Finger stub - fine,fractures,0,https://www.nhs.uk,0
+Bird peck - none,rabies,0,(Synthetic),1
+Construction worker unconscious after fall - CPR in progress,cpr,1,https://www.osha.gov,0
+Toddler choking on small toy - weak cough and pale,choking,1,(Synthetic),1
+Elderly woman fainted in store - conscious but confused,fainting,0,https://www.nhs.uk,0
+Minor electric shock from appliance - small finger burn,electric_shock,0,(Synthetic),1
+Deep cut from glass - bleeding through bandage,wounds,1,https://www.redcross.org,0
+Snake bite on trail - severe pain and swelling,snake_bite,1,(Synthetic),1
+Multiple bee stings - allergic reaction developing,bee_sting,1,https://www.cdc.gov,0
+Scorpion sting with numbness in arm,scorpion_sting,1,(Synthetic),1
+Hot oil burn - second degree on arm,burns,1,https://www.redcross.org,0
+Child pulled from pool - unresponsive,drowning,1,(Synthetic),1
+Fell from bike - deformed wrist,fractures,1,https://www.nhs.uk,0
+Bat bite discovered in morning,rabies,1,(Synthetic),1
+Man collapsed at mall - CPR started,cpr,1,https://www.redcross.org,0
+Choking on meat - unable to breathe,choking,1,(Synthetic),1
+Fainted after shot - now alert,fainting,0,https://www.who.int,0
+Small electric shock - tingling,electric_shock,0,(Synthetic),1
+Deep knife cut - bleeding heavily,wounds,1,https://www.redcross.org,0
+Non-venomous snake bite - minor,snake_bite,0,(Synthetic),1
+Scorpion sting - mild symptoms,scorpion_sting,0,(Synthetic),1
+Hot water burn - red skin,burns,0,https://www.redcross.org,0
+Twisted ankle - can walk,fractures,0,https://www.nhs.uk,0
+Pet scratch - no concern,rabies,0,(Synthetic),1
+Newborn not breathing - rescue efforts,cpr,1,https://www.redcross.org,0
+Baby choking - gagging but breathing,choking,0,(Synthetic),1
+Fainted after blood work - fine now,fainting,0,https://www.who.int,0
+Static shock - no harm,electric_shock,0,(Synthetic),1
+Garden snake - no issue,snake_bite,0,(Synthetic),1
+Bee sting - normal,bee_sting,0,https://www.cdc.gov,0
+Scorpion - mild pain,scorpion_sting,0,(Synthetic),1
+Sunburn - shoulders red,burns,0,https://www.redcross.org,0
+Water inhalation - coughing,drowning,0,(Synthetic),1
+Stubbed toe - hurts,fractures,0,https://www.nhs.uk,0
+Cat scratch - superficial,rabies,0,(Synthetic),1
+Collapse - CPR initiated,cpr,1,https://www.redcross.org,0
+Choking on candy - distressed,choking,1,(Synthetic),1
+Minor shock - okay,electric_shock,0,(Synthetic),1
+Splinter - out,wounds,0,https://www.redcross.org,0
+Water snake - fine,snake_bite,0,(Synthetic),1
+Honeybee - mild,bee_sting,0,https://www.cdc.gov,0
+Scorpion - ice helping,scorpion_sting,0,(Synthetic),1
+Hot pan - red mark,burns,0,https://www.redcross.org,0
+Brief underwater - okay,drowning,0,(Synthetic),1
+Wrist sprain - mild,fractures,0,https://www.nhs.uk,0
+Hamster - no bite,rabies,0,(Synthetic),1
+Unresponsive - CPR ongoing,cpr,1,https://www.redcross.org,0
+Choking on nut - panicking,choking,1,(Synthetic),1
+Small cut - cleaned,wounds,0,https://www.redcross.org,0
+Garter snake - harmless,snake_bite,0,(Synthetic),1
+Scorpion - minor,scorpion_sting,0,(Synthetic),1
+Steam - slight red,burns,0,https://www.redcross.org,0
+Water cough - mild,drowning,0,(Synthetic),1
+Finger stub - okay,fractures,0,https://www.nhs.uk,0
+Bird peck - nothing,rabies,0,(Synthetic),1
+"Construction worker fell from scaffold - unconscious, irregular breathing",cpr,1,(Synthetic),1
+"Baby choking on marble - silent crying, face turning purple",choking,1,(Synthetic),1
+Woman fainted in shower - hit head on tile floor,fainting,1,(Synthetic),1
+"Child licked exposed wires - burns around mouth, irregular heartbeat",electric_shock,1,(Synthetic),1
+Chainsaw accident - deep thigh wound with arterial bleeding,wounds,1,(Synthetic),1
+Black mamba bite - paralysis starting in legs,snake_bite,1,(Synthetic),1
+50+ bee stings - vomiting and confusion,bee_sting,1,(Synthetic),1
+Bark scorpion sting - uncontrollable eye movements,scorpion_sting,1,(Synthetic),1
+Chemical explosion - third-degree burns on 40% of body,burns,1,(Synthetic),1
+"Diver surfaced too fast - unconscious, frothing at mouth",drowning,1,(Synthetic),1
+Car crash victim - bone protruding from leg,fractures,1,(Synthetic),1
+Fox bite in rural area - animal behaving strangely,rabies,1,(Synthetic),1
+Gym member collapsed mid-workout - gasping for air,cpr,1,(Synthetic),1
+"Elderly man choking on dentures - blue lips, weak pulse",choking,1,(Synthetic),1
+Pregnant woman fainted - bleeding from nose,fainting,1,(Synthetic),1
+Lightning strike victim - burn patterns on chest,electric_shock,1,(Synthetic),1
+Industrial blade injury - severed finger,wounds,1,(Synthetic),1
+"Cobra spit in eyes - blurred vision, intense pain",snake_bite,1,(Synthetic),1
+Bee sting inside throat - difficulty swallowing,bee_sting,1,(Synthetic),1
+Scorpion sting on toddler - high fever developing,scorpion_sting,1,(Synthetic),1
+Molten metal splash - full thickness burns,burns,1,(Synthetic),1
+Surfer wiped out - not breathing when pulled ashore,drowning,1,(Synthetic),1
+Skateboard fall - open wrist fracture,fractures,1,(Synthetic),1
+Bat flew into face at night - scratch near eye,rabies,1,(Synthetic),1
+Office worker collapsed - no response to shaking,cpr,1,(Synthetic),1
+Special needs child choking on rubber toy,choking,1,(Synthetic),1
+Diabetic fainted after insulin shot,fainting,1,(Synthetic),1
+Electric fence shock - muscle paralysis,electric_shock,1,(Synthetic),1
+Broken bottle stabbing - deep abdominal wound,wounds,1,(Synthetic),1
+Sea snake bite while fishing - difficulty breathing,snake_bite,1,(Synthetic),1
+Massive allergic reaction to bee sting - throat closing,bee_sting,1,(Synthetic),1
+Scorpion sting with seizures,scorpion_sting,1,(Synthetic),1
+Steam pipe explosion - severe facial burns,burns,1,(Synthetic),1
+"Ice fishing accident - fell through ice, hypothermic",drowning,1,(Synthetic),1
+Crushed hand in machinery - multiple fractures,fractures,1,(Synthetic),1
+Raccoon bite at campsite - animal foaming at mouth,rabies,1,(Synthetic),1
+Swimmer cardiac arrest in pool - pulled out limp,cpr,1,(Synthetic),1
+Alzheimer's patient choking on food - confused state,choking,1,(Synthetic),1
+Teen fainted during exam - hit head on desk,fainting,1,(Synthetic),1
+Hair dryer fell in bath - minor burns,electric_shock,0,(Synthetic),1
+Kitchen knife slip - shallow finger cut,wounds,0,(Synthetic),1
+Garter snake bite in garden - no reaction,snake_bite,0,(Synthetic),1
+Single honeybee sting - normal swelling,bee_sting,0,(Synthetic),1
+Small scorpion sting - pain fading,scorpion_sting,0,(Synthetic),1
+Sunburn after beach day - red shoulders,burns,0,(Synthetic),1
+Child swallowed bath water - mild coughing,drowning,0,(Synthetic),1
+Twisted ankle from misstep - swelling,fractures,0,(Synthetic),1
+Pet hamster nibble - no broken skin,rabies,0,(Synthetic),1
+Elderly woman dizzy after standing - no fall,fainting,0,(Synthetic),1
+Toddler put finger in outlet - cried but fine,electric_shock,0,(Synthetic),1
+Paper cut while opening mail,wounds,0,(Synthetic),1
+Non-venomous snake startled gardener,snake_bite,0,(Synthetic),1
+Wasp sting - normal local reaction,bee_sting,0,(Synthetic),1
+Small scorpion - mild sting reaction,scorpion_sting,0,(Synthetic),1
+Touched hot pan briefly - minor redness,burns,0,(Synthetic),1
+Pool water in nose - temporary discomfort,drowning,0,(Synthetic),1
+Stubbed toe on furniture - no swelling,fractures,0,(Synthetic),1
+Pet bird pecked finger playfully,rabies,0,(Synthetic),1
+Man overexerted in heat - lightheaded,fainting,0,(Synthetic),1
+Static shock from car door,electric_shock,0,(Synthetic),1
+Shaving nick - small cut,wounds,0,(Synthetic),1
+Garden snake slithered over foot,snake_bite,0,(Synthetic),1
+Small scorpion - brief pain,scorpion_sting,0,(Synthetic),1
+Brief steam exposure - mild redness,burns,0,(Synthetic),1
+Got water up nose while swimming,drowning,0,(Synthetic),1
+Twisted ankle - able to walk,fractures,0,(Synthetic),1
+Cat licked hand - no scratch,rabies,0,(Synthetic),1
+Felt dizzy after hot bath - sat down,fainting,0,(Synthetic),1
+Touched frayed wire - small shock,electric_shock,0,(Synthetic),1
+Zipper cut on finger,wounds,0,(Synthetic),1
+Water snake brushed against leg,snake_bite,0,(Synthetic),1
+Single wasp sting - minor swelling,bee_sting,0,(Synthetic),1
+Scorpion sting - ice helped quickly,scorpion_sting,0,(Synthetic),1
+Brief contact with hot water,burns,0,(Synthetic),1
+Coughed after swallowing water wrong,drowning,0,(Synthetic),1
+Stubbed toe - no visible injury,fractures,0,(Synthetic),1
+Pet rat licked finger,rabies,0,(Synthetic),1
+Felt faint after long flight,fainting,0,(Synthetic),1
+Small static shock from blanket,electric_shock,0,(Synthetic),1
+Tiny cut from paper edge,wounds,0,(Synthetic),1
+Garter snake in yard - no contact,snake_bite,0,(Synthetic),1
+Bee sting - mild reaction,bee_sting,0,(Synthetic),1
+Small scorpion - momentary sting,scorpion_sting,0,(Synthetic),1
+Brief sun exposure - mild pink skin,burns,0,(Synthetic),1
+Water went down wrong pipe,drowning,0,(Synthetic),1
+Twisted ankle - mild discomfort,fractures,0,(Synthetic),1
+Pet bird landed on shoulder,rabies,0,(Synthetic),1
+Lightheaded after blood draw,fainting,0,(Synthetic),1
+Touched old battery terminals,electric_shock,0,(Synthetic),1
+Hangnail tear - minor bleeding,wounds,0,(Synthetic),1
+Non-venomous snake seen in garden,snake_bite,0,(Synthetic),1
+Scorpion sting - brief pain,scorpion_sting,0,(Synthetic),1
+Hot tea spill - minor redness,burns,0,(Synthetic),1
+Coughed after drinking water fast,drowning,0,(Synthetic),1
+Stubbed toe - momentary pain,fractures,0,(Synthetic),1
+Pet guinea pig nibbled finger,rabies,0,(Synthetic),1
+Felt woozy after hot tub,fainting,0,(Synthetic),1
+Small static shock from clothes,electric_shock,0,(Synthetic),1
+Minor scratch from thorn bush,wounds,0,(Synthetic),1
+Garden snake moved away quickly,snake_bite,0,(Synthetic),1
+Single bee sting - normal response,bee_sting,0,(Synthetic),1
+Scorpion sting - mild and brief,scorpion_sting,0,(Synthetic),1
+Brief sun exposure - no burn,burns,0,(Synthetic),1
+Water in nose from splash,drowning,0,(Synthetic),1
+Twisted ankle - no swelling,fractures,0,(Synthetic),1
+Pet rabbit nuzzled hand,rabies,0,(Synthetic),1
+"Worker collapsed on construction site - no pulse, skin turning gray",cpr,1,(Synthetic),1
+"Infant choking on balloon - silent crying, lips blue",choking,1,(Synthetic),1
+Teen fainted after marathon - vomiting when awake,fainting,1,(Synthetic),1
+Child stuck fork in outlet - burn marks on hand,electric_shock,1,(Synthetic),1
+Deep axe wound in thigh - blood pulsating out,wounds,1,(Synthetic),1
+Hiker bitten by unknown snake - dizziness and sweating,snake_bite,1,(Synthetic),1
+Allergic reaction to bee sting - hives spreading fast,bee_sting,1,(Synthetic),1
+Scorpion sting on neck - difficulty swallowing,scorpion_sting,1,(Synthetic),1
+Oil fire burns - skin peeling off arm,burns,1,(Synthetic),1
+Swimmer unconscious after rescue - water in lungs,drowning,1,(Synthetic),1
+"Car accident - leg bent sideways, bone visible",fractures,1,(Synthetic),1
+Bat bite while camping - animal acting aggressive,rabies,1,(Synthetic),1
+Man clutching chest - stopped breathing suddenly,cpr,1,(Synthetic),1
+Grandmother choking on pill - can't make any sound,choking,1,(Synthetic),1
+Woman passed out in heat - body very hot,fainting,1,(Synthetic),1
+Toddler bit charging cable - tongue swollen,electric_shock,1,(Synthetic),1
+Glass door shattered - deep cuts on face,wounds,1,(Synthetic),1
+Snake bite in jungle - blurred vision,snake_bite,1,(Synthetic),1
+50+ bee stings - vomiting blood,bee_sting,1,(Synthetic),1
+Scorpion sting - muscle twitching violently,scorpion_sting,1,(Synthetic),1
+Chemical spill - burns through clothing,burns,1,(Synthetic),1
+Diver not breathing after rescue,drowning,1,(Synthetic),1
+Fell from roof - arm deformed,fractures,1,(Synthetic),1
+Fox bite in woods - animal foaming,rabies,1,(Synthetic),1
+Baby not breathing - turning blue,cpr,1,(Synthetic),1
+Choking on ice cube - grabbing throat,choking,1,(Synthetic),1
+Fainted and hit head on concrete,fainting,1,(Synthetic),1
+Electric shock from power line - burns on chest,electric_shock,1,(Synthetic),1
+Chainsaw accident - severe leg wound,wounds,1,(Synthetic),1
+Black snake bite - paralysis starting,snake_bite,1,(Synthetic),1
+Bee sting in mouth - tongue swelling,bee_sting,1,(Synthetic),1
+Scorpion sting - child unconscious,scorpion_sting,1,(Synthetic),1
+Hot metal burn - skin charred,burns,1,(Synthetic),1
+Near-drowning - coughing up blood,drowning,1,(Synthetic),1
+Crushed hand in machine - bones exposed,fractures,1,(Synthetic),1
+Raccoon bite - animal acting strange,rabies,1,(Synthetic),1
+Elderly collapsed - gasping for air,cpr,1,(Synthetic),1
+Choking on gum - can't cough,choking,1,(Synthetic),1
+Fainted with seizure-like movements,fainting,1,(Synthetic),1
+Lightning strike - irregular heartbeat,electric_shock,1,(Synthetic),1
+Knife wound to abdomen - organ visible,wounds,1,(Synthetic),1
+Cobra spit in eyes - blindness,snake_bite,1,(Synthetic),1
+Massive bee attack - 100+ stings,bee_sting,1,(Synthetic),1
+Scorpion sting - stopped breathing,scorpion_sting,1,(Synthetic),1
+Molten plastic burns - skin melting,burns,1,(Synthetic),1
+Surfer drowned - no pulse found,drowning,1,(Synthetic),1
+Motorcycle crash - open skull fracture,fractures,1,(Synthetic),1
+Bat bite - didn't see animal,rabies,1,(Synthetic),1
+Construction worker in cardiac arrest - coworkers performing CPR with AED,cpr,1,(Synthetic),1
+Newborn not breathing after birth - umbilical cord wrapped around neck,cpr,1,(Synthetic),1
+"Man collapsed during marathon - no pulse, bystanders starting chest compressions",cpr,1,(Synthetic),1
+Elderly woman in nursing home found unresponsive - staff initiating CPR,cpr,1,(Synthetic),1
+"Drowning victim pulled from ocean - no breathing, starting rescue breaths",cpr,1,(Synthetic),1
+Teenager choked on hot dog at picnic - unable to speak or cough,choking,1,(Synthetic),1
+"Baby choking on small battery - lips turning blue, weak gasps",choking,1,(Synthetic),1
+Alzheimer's patient choking on food - confused and panicking,choking,1,(Synthetic),1
+"Child choking on marble - silent crying, face turning purple",choking,1,(Synthetic),1
+Elderly man choking on dentures - weak attempts to cough,choking,1,(Synthetic),1
+Pregnant woman fainted in supermarket - hit head on floor,fainting,1,(Synthetic),1
+Teenager passed out after extreme heat exposure - skin hot and dry,fainting,1,(Synthetic),1
+Elderly man fainted while standing - possible head injury from fall,fainting,1,(Synthetic),1
+Woman fainted after seeing blood - seizure-like movements,fainting,1,(Synthetic),1
+Child passed out from dehydration - vomiting when awakened,fainting,1,(Synthetic),1
+"Electrician shocked by live wire - irregular heartbeat, muscle spasms",electric_shock,1,(Synthetic),1
+"Child bit into extension cord - severe mouth burns, difficulty breathing",electric_shock,1,(Synthetic),1
+Lightning strike victim - burn marks in tree-branch pattern,electric_shock,1,(Synthetic),1
+Worker shocked by industrial equipment - burns on hands and chest,electric_shock,1,(Synthetic),1
+Teenager shocked by damaged appliance - unconscious for 30 seconds,electric_shock,1,(Synthetic),1
+"Chainsaw injury to leg - arterial bleeding, bone visible",wounds,1,(Synthetic),1
+"Stabbing victim - deep abdominal wound, organ protrusion",wounds,1,(Synthetic),1
+Car accident - glass shards embedded in face and neck,wounds,1,(Synthetic),1
+Industrial accident - partial amputation of fingers,wounds,1,(Synthetic),1
+Falling through glass door - multiple deep lacerations,wounds,1,(Synthetic),1
+Black mamba bite - paralysis spreading rapidly,snake_bite,1,(Synthetic),1
+Rattlesnake bite while hiking - severe swelling within minutes,snake_bite,1,(Synthetic),1
+Unknown snake bite in jungle - blurred vision and difficulty breathing,snake_bite,1,(Synthetic),1
+Sea snake bite while fishing - muscle paralysis developing,snake_bite,1,(Synthetic),1
+Cobra spit in eyes - intense pain and temporary blindness,snake_bite,1,(Synthetic),1
+Multiple hornet stings - throat swelling shut,bee_sting,1,(Synthetic),1
+Bee sting allergy - full body hives and wheezing,bee_sting,1,(Synthetic),1
+"Africanized bee attack - 200+ stings, vomiting blood",bee_sting,1,(Synthetic),1
+Bee sting inside mouth - tongue swelling rapidly,bee_sting,1,(Synthetic),1
+Wasp sting near eye - eye swollen shut within minutes,bee_sting,1,(Synthetic),1
+Bark scorpion sting - uncontrollable muscle twitching,scorpion_sting,1,(Synthetic),1
+Scorpion sting on infant - high fever and seizures,scorpion_sting,1,(Synthetic),1
+Multiple scorpion stings - difficulty breathing,scorpion_sting,1,(Synthetic),1
+Scorpion sting with severe abdominal pain,scorpion_sting,1,(Synthetic),1
+Scorpion sting - loss of bladder control,scorpion_sting,1,(Synthetic),1
+Chemical burn from acid - skin peeling off in sheets,burns,1,(Synthetic),1
+Molten metal splash - third degree burns on arm,burns,1,(Synthetic),1
+Steam burn in industrial accident - full thickness burns,burns,1,(Synthetic),1
+Electrical burn - internal tissue damage suspected,burns,1,(Synthetic),1
+Gasoline fire - burns over 30% of body,burns,1,(Synthetic),1
+"Ice fishing accident - submerged in freezing water, not breathing",drowning,1,(Synthetic),1
+"Child fell in pool - found at bottom, blue lips",drowning,1,(Synthetic),1
+"Boat capsized - victim inhaled seawater, coughing blood",drowning,1,(Synthetic),1
+Scuba diver lost consciousness underwater,drowning,1,(Synthetic),1
+Surfer held underwater by strong current - pulseless,drowning,1,(Synthetic),1
+Fall from 3rd story window - multiple compound fractures,fractures,1,(Synthetic),1
+Car crash - open femur fracture with bone protruding,fractures,1,(Synthetic),1
+Industrial accident - crushed pelvis,fractures,1,(Synthetic),1
+Skateboard fall - visible bone in forearm,fractures,1,(Synthetic),1
+Farming accident - mangled hand with multiple fractures,fractures,1,(Synthetic),1
+Bat bite while sleeping - didn't see the animal,rabies,1,(Synthetic),1
+Fox bite in rural area - animal acting strangely,rabies,1,(Synthetic),1
+Raccoon attack - bite wounds on arms and face,rabies,1,(Synthetic),1
+Stray dog bite in rabies-endemic area,rabies,1,(Synthetic),1
+Monkey bite while traveling abroad,rabies,1,(Synthetic),1
+Office worker collapsed suddenly - no pulse detected,cpr,1,(Synthetic),1
+Infant found blue and not breathing in crib,cpr,1,(Synthetic),1
+Swimmer pulled from pool - no breathing or pulse,cpr,1,(Synthetic),1
+Elderly diabetic collapsed - gasping respirations,cpr,1,(Synthetic),1
+Teenager collapsed during sports - sudden cardiac arrest,cpr,1,(Synthetic),1
+Special needs child choking on small toy part,choking,1,(Synthetic),1
+Restaurant patron choking on large piece of meat,choking,1,(Synthetic),1
+Elderly stroke patient choking on liquids,choking,1,(Synthetic),1
+Toddler choking on balloon fragment,choking,1,(Synthetic),1
+Intoxicated person choking on vomit,choking,1,(Synthetic),1
+Worker fainted from heat stroke - core temperature 105°F,fainting,1,(Synthetic),1
+Child passed out after head injury,fainting,1,(Synthetic),1
+Elderly woman fainted and broke hip in fall,fainting,1,(Synthetic),1
+Patient fainted after medical procedure,fainting,1,(Synthetic),1
+Teenager fainted during blood draw - seizure activity,fainting,1,(Synthetic),1
+Lineman shocked by high-voltage line - cardiac arrhythmia,electric_shock,1,(Synthetic),1
+Child licked 9V battery - burns to tongue,electric_shock,0,(Synthetic),1
+Static shock from car - no injury,electric_shock,0,(Synthetic),1
+Small electric burn from outlet - minor skin damage,electric_shock,0,(Synthetic),1
+Deep laceration from broken glass - stitches needed,wounds,1,(Synthetic),1
+Kitchen knife slip - deep finger cut,wounds,1,(Synthetic),1
+Dog bite - puncture wounds bleeding heavily,wounds,1,(Synthetic),1
+Fishing hook embedded deep in hand,wounds,1,(Synthetic),1
+Falling on sharp object - puncture wound to abdomen,wounds,1,(Synthetic),1
+Non-venomous snake bite - minor puncture marks,snake_bite,0,(Synthetic),1
+Small garden snake bite - no reaction,snake_bite,0,(Synthetic),1
+Water snake bite - no envenomation,snake_bite,0,(Synthetic),1
+Pet snake bite - minimal break in skin,snake_bite,0,(Synthetic),1
+Single honeybee sting - normal reaction,bee_sting,0,(Synthetic),1
+Wasp sting - localized swelling,bee_sting,0,(Synthetic),1
+Bumblebee sting - mild redness,bee_sting,0,(Synthetic),1
+Bee sting - no allergic reaction,bee_sting,0,(Synthetic),1
+Minor bee sting - ice helping,bee_sting,0,(Synthetic),1
+Small scorpion sting - mild pain,scorpion_sting,0,(Synthetic),1
+Non-venomous scorpion sting,scorpion_sting,0,(Synthetic),1
+Scorpion sting - symptoms resolving,scorpion_sting,0,(Synthetic),1
+Minor scorpion sting - no systemic effects,scorpion_sting,0,(Synthetic),1
+Scorpion sting - pain fading,scorpion_sting,0,(Synthetic),1
+Sunburn - mild redness,burns,0,(Synthetic),1
+Small cooking oil burn,burns,0,(Synthetic),1
+Minor steam burn on hand,burns,0,(Synthetic),1
+Light sunburn after beach day,burns,0,(Synthetic),1
+Child swallowed pool water - coughing but fine,drowning,0,(Synthetic),1
+Water in nose while swimming,drowning,0,(Synthetic),1
+Coughed after drinking water,drowning,0,(Synthetic),1
+Minor water inhalation,drowning,0,(Synthetic),1
+Twisted ankle - mild sprain,fractures,0,(Synthetic),1
+Stubbed toe - no fracture,fractures,0,(Synthetic),1
+Fell on wrist - no deformity,fractures,0,(Synthetic),1
+Possible hairline fracture - minimal swelling,fractures,0,(Synthetic),1
+Bruised knee after fall,fractures,0,(Synthetic),1
+Cat scratch - superficial wound,rabies,0,(Synthetic),1
+Pet bird peck - no injury,rabies,0,(Synthetic),1
+Rabbit scratch - minimal,rabies,0,(Synthetic),1
+The man collapsed suddenly during his morning jog. He was unresponsive and not breathing. CPR was started immediately while emergency services were called.,cpr,1,https://www.nhs.uk/conditions/first-aid/cpr/,0
+"An elderly woman choked on her food in the restaurant. She couldn’t cough or speak. Back blows and abdominal thrusts were applied, and an ambulance was called.",choking,1,https://www.redcross.org/take-a-class/first-aid/first-aid-classes/choking,0
+"Hot coffee spilled on a coworker’s lap, causing a large blistering burn. The area was cooled with water and 911 was called due to the burn's severity.",burn,1,https://www.sja.org.uk/get-advice/first-aid-advice/burns-and-scalds/,0
+A child cut their thigh on broken glass and was bleeding heavily. Pressure was applied to the wound and emergency help was called.,bleeding,1,https://www.mayoclinic.org/first-aid/first-aid-bleeding/basics/art-20056661,0
+Teenager fell off a skateboard and hit their head hard. They lost consciousness for a few seconds. 911 was called immediately.,head_injury,1,https://www.cdc.gov/headsup/basics/concussion_whatis.html,0
+A toddler drank cleaning liquid stored in a soda bottle. Poison control was contacted and paramedics were dispatched.,poisoning,1,https://www.poison.org/,0
+A construction worker received an electric shock from a faulty wire and became unconscious. Bystanders turned off the power and called 911.,electric_shock,1,https://www.redcross.org/first-aid/electric-shock,0
+"A man was found unresponsive with empty pill bottles beside him. Suspected overdose. Emergency services were called, and CPR was started.",overdose,1,https://www.nhs.uk/conditions/drug-misuse/treatment/,0
+My father complained of chest pain and shortness of breath. We gave him aspirin and called 999 right away.,heart_attack,1,https://www.bhf.org.uk/informationsupport/how-a-heart-attack-is-treated,0
+Classmate was wheezing badly during PE and couldn't catch their breath even after using the inhaler. Teacher called an ambulance immediately.,asthma_attack,1,https://www.asthma.org.uk/advice/first-aid/,0
+"A woman fainted in the queue and regained consciousness in under a minute. She seemed okay afterward, so no ambulance was called.",fainting,0,https://my.clevelandclinic.org/health/diseases/17728-syncope-fainting,0
+A child fell from the monkey bars and had a visibly deformed arm. We immobilized it and called emergency services.,fracture,1,https://www.nhs.uk/conditions/broken-arm/,0
+A man collapsed on the subway platform. He had no pulse and wasn’t breathing. CPR was started by a bystander while others called emergency services.,cpr,1,https://www.nhs.uk/conditions/first-aid/cpr/,0
+"During a soccer match, a player fell suddenly and stopped breathing. The coach initiated CPR immediately.",cpr,1,https://www.nhs.uk/conditions/first-aid/cpr/,0
+An elderly man fainted at home and was found unresponsive by his wife. She started chest compressions and called for help.,cpr,1,https://www.nhs.uk/conditions/first-aid/cpr/,0
+A toddler started choking on a grape and could not breathe. The babysitter performed back blows and called 911.,choking,1,https://www.redcross.org/take-a-class/first-aid/first-aid-classes/choking,0
+A man began choking on steak at dinner. He signaled he was in distress but couldn’t cough. Heimlich maneuver was used while calling for help.,choking,1,https://www.redcross.org/take-a-class/first-aid/first-aid-classes/choking,0
+"During lunch, a woman suddenly clutched her throat and became silent. Emergency services were contacted immediately.",choking,1,https://www.redcross.org/take-a-class/first-aid/first-aid-classes/choking,0
+A child pulled a boiling pot off the stove and got second-degree burns. Skin was red and blistering. Ambulance was called after cooling.,burn,1,https://www.sja.org.uk/get-advice/first-aid-advice/burns-and-scalds/,0
+A kitchen worker accidentally splashed oil on their arm causing a severe burn. Colleagues used cold water and phoned emergency services.,burn,1,https://www.sja.org.uk/get-advice/first-aid-advice/burns-and-scalds/,0
+A candle tipped over and set a woman’s dress on fire. She sustained large burns and an ambulance was called immediately.,burn,1,https://www.sja.org.uk/get-advice/first-aid-advice/burns-and-scalds/,0
+"While hiking, a boy fell on a sharp rock and gashed his leg deeply. Bleeding didn’t stop after 10 minutes. Help was called.",bleeding,1,https://www.mayoclinic.org/first-aid/first-aid-bleeding/basics/art-20056661,0
+A woman cut her hand with a kitchen knife. Blood was squirting. They applied a tourniquet and called emergency.,bleeding,1,https://www.mayoclinic.org/first-aid/first-aid-bleeding/basics/art-20056661,0
+A man crashed his bike and his arm had a deep laceration. Bleeding heavily. Pressure was applied and 911 was called.,bleeding,1,https://www.mayoclinic.org/first-aid/first-aid-bleeding/basics/art-20056661,0
+A cyclist wasn’t wearing a helmet and hit his head during a crash. He lost consciousness briefly and was disoriented afterward.,head_injury,1,https://www.cdc.gov/headsup/basics/concussion_danger_signs.html,0
+A child fell off the monkey bars and struck her head. She vomited and seemed sleepy afterward.,head_injury,1,https://www.cdc.gov/headsup/basics/concussion_danger_signs.html,0
+A teenager was hit in the head with a baseball. He said he felt dizzy and saw stars. Parents called emergency just to be safe.,head_injury,1,https://www.cdc.gov/headsup/basics/concussion_danger_signs.html,0
+A toddler drank a cleaning liquid left on the counter. Parents called poison control immediately and were told to call 911.,poisoning,1,https://www.poison.org/articles/poison-help,0
+A man accidentally overdosed on prescription medication. He was confused and having trouble staying awake.,poisoning,1,https://www.poison.org/articles/poison-help,0
+A woman inhaled toxic fumes from a cleaning agent in a closed bathroom and felt faint and nauseous.,poisoning,1,https://www.poison.org/articles/poison-help,0
+A worker touched a faulty exposed wire and collapsed after a visible jolt. Coworkers turned off power and called EMS.,electric_shock,1,https://www.nhs.uk/conditions/electric-shock/,0
+A boy put a fork in an electric socket and was thrown back. He was conscious but had burns on his hand.,electric_shock,1,https://www.nhs.uk/conditions/electric-shock/,0
+A man working on home wiring was electrocuted and went unconscious. His partner called emergency right away.,electric_shock,1,https://www.nhs.uk/conditions/electric-shock/,0
+"During a basketball game, a player fell and heard a loud crack in his ankle. He couldn’t stand up.",fracture,1,https://orthoinfo.aaos.org/en/diseases--conditions/fractures-broken-bones/,0
+A construction worker slipped off a ladder and broke his arm visibly. Bones were out of place.,fracture,1,https://orthoinfo.aaos.org/en/diseases--conditions/fractures-broken-bones/,0
+A girl fell while skating and couldn't move her wrist due to severe pain and swelling.,fracture,1,https://orthoinfo.aaos.org/en/diseases--conditions/fractures-broken-bones/,0
+A man fainted in church and fell backwards. He regained consciousness within a minute.,fainting,0,https://www.nhs.uk/conditions/fainting/,0
+A woman stood up quickly and collapsed. She woke up after 10 seconds feeling dizzy.,fainting,0,https://www.nhs.uk/conditions/fainting/,0
+A teenager fainted while donating blood. Volunteers laid him flat and gave him juice.,fainting,0,https://www.nhs.uk/conditions/fainting/,0
+A child with asthma had trouble breathing after running. He was wheezing and couldn’t talk well.,asthma,1,https://www.nhs.uk/conditions/asthma/asthma-attack/,0
+A woman forgot her inhaler and had a severe asthma attack in the park.,asthma,1,https://www.nhs.uk/conditions/asthma/asthma-attack/,0
+A man had shortness of breath and tight chest during allergy season. He used an inhaler but symptoms worsened.,asthma,1,https://www.nhs.uk/conditions/asthma/asthma-attack/,0
+A student suddenly fell to the floor and began shaking uncontrollably. Bystanders cleared the area and called emergency.,seizure,1,https://www.epilepsy.com/what-is-epilepsy/seizure-first-aid,0
+A woman with known epilepsy had a seizure while shopping. Store staff called 911 immediately.,seizure,1,https://www.epilepsy.com/what-is-epilepsy/seizure-first-aid,0
+A man fell and began convulsing. He had bitten his tongue and was not responding afterward.,seizure,1,https://www.epilepsy.com/what-is-epilepsy/seizure-first-aid,0
+"A diabetic man became confused and shaky at work. His coworkers gave him orange juice, but he collapsed.",diabetic_emergency,1,https://www.diabetes.org/diabetes/medication-management/emergency,0
+A woman with type 1 diabetes skipped lunch and later had a seizure from low blood sugar.,diabetic_emergency,1,https://www.diabetes.org/diabetes/medication-management/emergency,0
+"A teenage boy with insulin pump was sweating, pale, and nearly passed out during gym class.",diabetic_emergency,1,https://www.diabetes.org/diabetes/medication-management/emergency,0
+A man collapsed while jogging in the park. He wasn’t breathing and had no pulse. A passerby started CPR until paramedics arrived.,cpr,1,https://www.redcross.org/take-a-class/cpr,0
+A security guard found an unconscious person with no breathing outside a club. Bystanders performed CPR immediately.,cpr,1,https://www.redcross.org/take-a-class/cpr,0
+"At a birthday party, a child choked on a piece of hot dog. A guest performed abdominal thrusts while another called for help.",choking,1,https://www.nhs.uk/conditions/first-aid/choking/,0
+A restaurant guest choked on food and couldn’t speak. Staff followed choking protocol and called an ambulance.,choking,1,https://www.nhs.uk/conditions/first-aid/choking/,0
+A man spilled boiling water on his leg while cooking. His skin peeled and blistered. Emergency services were called after cooling.,burn,1,https://www.mayoclinic.org/first-aid/first-aid-burns/basics/art-20056649,0
+A boy lit fireworks and his hand got burned badly. He was taken to hospital after initial cooling with water.,burn,1,https://www.mayoclinic.org/first-aid/first-aid-burns/basics/art-20056649,0
+A woman accidentally sliced her arm with a glass shard. Bleeding was profuse. They applied pressure and called EMS.,bleeding,1,https://www.redcross.org/take-a-class/first-aid/first-aid-classes/bleeding,0
+A chef accidentally cut deep into his palm. The wound didn’t stop bleeding after 10 minutes of pressure.,bleeding,1,https://www.redcross.org/take-a-class/first-aid/first-aid-classes/bleeding,0
+A skateboarder hit his head and passed out briefly. He became confused and vomited later.,head_injury,1,https://www.cdc.gov/headsup/index.html,0
+A child ran into a door and had a lump on her head. She became drowsy shortly after. Emergency care was advised.,head_injury,1,https://www.cdc.gov/headsup/index.html,0
+A woman mistakenly took twice her dose of insulin and became shaky and pale. She fainted and 911 was called.,diabetic_emergency,1,https://www.nhs.uk/conditions/diabetic-hyperglycaemia/,0
+A man with diabetes skipped dinner and became confused and aggressive. He was treated with sugar but still needed emergency care.,diabetic_emergency,1,https://www.nhs.uk/conditions/diabetic-hypoglycaemia/,0
+A man touched exposed wiring and screamed in pain. His muscles contracted and he collapsed. CPR was initiated.,electric_shock,1,https://www.hse.gov.uk/electricity/injuries.htm,0
+A toddler bit an electric cable and suffered burns to the mouth. Parents turned off power and rushed for help.,electric_shock,1,https://www.hse.gov.uk/electricity/injuries.htm,0
+A girl fell from a tree and couldn’t move her leg. Her thigh was swollen and bent unnaturally.,fracture,1,https://orthoinfo.aaos.org/,0
+A hiker tripped on a trail and broke his collarbone. He was in severe pain and couldn’t raise his arm.,fracture,1,https://orthoinfo.aaos.org/,0
+A student fainted during an exam after not eating all day. She was conscious again within seconds.,fainting,0,https://www.nhs.uk/conditions/fainting/,0
+"A man passed out in a crowded subway. On recovery, he was pale and dizzy. Passengers kept him lying down until help arrived.",fainting,0,https://www.nhs.uk/conditions/fainting/,0
+A girl had an asthma attack after running outside. She had trouble speaking and her lips turned blue.,asthma,1,https://www.asthma.org.uk/advice/first-aid/,0
+A man’s asthma worsened after exposure to smoke. He used his inhaler but symptoms didn’t improve. Emergency services were called.,asthma,1,https://www.asthma.org.uk/advice/first-aid/,0
+A man collapsed during dinner and began shaking uncontrollably. Bystanders ensured his head was protected and called emergency.,seizure,1,https://www.epilepsy.com/first-aid,0
+A teenager started having jerky movements and was unresponsive. Her friend called 911 and stayed with her.,seizure,1,https://www.epilepsy.com/first-aid,0
+A teenager ingested multiple pills in a suicide attempt. Family found her unconscious and called emergency services immediately.,poisoning,1,https://www.poison.org/,0
+A man drank antifreeze by accident thinking it was juice. He became dizzy and disoriented.,poisoning,1,https://www.poison.org/,0

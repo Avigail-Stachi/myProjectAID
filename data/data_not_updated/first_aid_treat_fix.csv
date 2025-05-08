@@ -1,0 +1,50 @@
+case_name,instructions
+cpr,"1. Identify the patient's condition and check whether CPR is required.
+2. Check if the patient is conscious by calling out to him.
+3. Check if there is a response to physical contact.
+4. Check if there is normal breathing.
+5. Immediately call the 101 hotline.
+6. Start chest compressions.
+7. If a defibrillator is nearby, ask to bring it and administer an electric shock as soon as possible.
+8. Continue heart massage or use a defibrillator until medical staff arrive."
+fainting,"1. Keep the airway open and raise the legs.
+2. Breathing instructions: Flower and candle.
+    - Flower = take a deep breath in slowly, as if smelling a flower.
+    - Candle = take a long breath out, as if blowing out a candle.
+3. Continue following the CPR scheme.
+4. When the patient wakes up, leave them on the floor until they recover completely."
+drowning,"1. Ensure safety, be careful not to drift away, only qualified persons should remove from water.
+2. In shallow water, avoid risk to the cervical spine by tilting the head and pushing the jaw.
+3. Cover the victim to maintain body heat.
+4. Continue according to the resuscitation scheme."
+electric_shock,"1. Turn off all electrical switches outdoors.
+2. Call 103 for the electricity company and remove the victim from the current only by an isolated person.
+3. Treat burns, fractures, and evacuate to the hospital.
+4. Continue according to the resuscitation scheme."
+choking,"If conscious:
+    1. Calm down and encourage coughing.
+    2. Examine the mouth and scrape with the finger.
+    3. Perform Heimlich thrusts: abdominal thrusts with a fist hugging a fist (thumb in a J-shape).
+If unconscious:
+    1. Follow the same steps as above but with the patient lying down.
+    2. Continue according to the resuscitation scheme."
+rabies,"1. Rub the area with soap and water in a circular motion outwards.
+2. Quickly evacuate to the hospital.
+3. Report to the Ministry of Health."
+bee_sting,"1. Wash the area (apply honey and vinegar).
+2. Monitor for an allergic reaction, take the patient to the hospital immediately if there is any sign of allergy."
+snake_bite,"1. Sedate the patient and remove them from the dangerous area.
+2. Clean the bite area of venom.
+3. Immobilize the limb.
+4. Evacuate to the hospital quickly with minimal shaking.
+5. It is advisable to bring the snake to the hospital for identification."
+scorpion_sting,"1. Wash the area.
+2. Urgently evacuate the patient to the hospital."
+wounds,"1. Remove from the dangerous factor.
+2. Rinse with running water.
+3. Disinfect and dress the wound."
+burns,"1. Wash the area with lukewarm running water.
+2. Bandage the burn with a Barnschild bandage."
+fractures,"1. Immobilize the limb in the present position (using a bandage).
+2. Ensure minimal movement and shaking.
+3. Sedate the patient."
