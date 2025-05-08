@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2ebcfb7-f315-4c1b-ae7c-e28b066d522f" name="Changes" comment="expend the dataset of aid cases by EDA">
-      <change afterPath="$PROJECT_DIR$/mycode/blur_images.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mycode/makeDB.py" afterDir="false" />
+    <list default="true" id="e2ebcfb7-f315-4c1b-ae7c-e28b066d522f" name="Changes" comment="start make DB">
+      <change beforePath="$PROJECT_DIR$/.idea/myModel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/myModel.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/expend_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/mycode/expend_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/makeDB.py" beforeDir="false" afterPath="$PROJECT_DIR$/mycode/makeDB.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +53,7 @@
     "Python.connectToMDA.executor": "Run",
     "Python.convertSpeech.executor": "Run",
     "Python.expend_data.executor": "Run",
+    "Python.makeDB.executor": "Run",
     "Python.model3clean.executor": "Run",
     "Python.mymodel3E.executor": "Run",
     "Python.organize_dataset.executor": "Run",
@@ -60,7 +62,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/project/projectAID",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -252,7 +254,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746517450871</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="start make DB">
+      <option name="closed" value="true" />
+      <created>1746566734355</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1746566734355</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -286,6 +296,7 @@
     <MESSAGE value="fix labels names" />
     <MESSAGE value="change routings and stuff" />
     <MESSAGE value="expend the dataset of aid cases by EDA" />
-    <option name="LAST_COMMIT_MESSAGE" value="expend the dataset of aid cases by EDA" />
+    <MESSAGE value="start make DB" />
+    <option name="LAST_COMMIT_MESSAGE" value="start make DB" />
   </component>
 </project>
