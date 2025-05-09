@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2ebcfb7-f315-4c1b-ae7c-e28b066d522f" name="Changes" comment="update cllasify model of texts&#10;start cnn model&#10;dataaa">
-      <change afterPath="$PROJECT_DIR$/mycode/model/predict_with_uncertainty.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mycode/model/saved_model1.keras" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mycode/model/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/mycode/model/predict.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/cnn/datasetBurns_fix/burn_levels.zip" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,26 +43,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Instructions_Aid.executor": "Run",
-    "Python.ch.executor": "Run",
-    "Python.connectToMDA.executor": "Run",
-    "Python.convertSpeech.executor": "Run",
-    "Python.expend_data.executor": "Run",
-    "Python.makeDB.executor": "Run",
-    "Python.model3clean.executor": "Run",
-    "Python.mymodel3E.executor": "Run",
-    "Python.organize_dataset.executor": "Run",
-    "Python.predict.executor": "Run",
-    "Python.speechOfline.executor": "Run",
-    "Python.testModel3.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/project/projectAID",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Instructions_Aid.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ch.executor&quot;: &quot;Run&quot;,
+    &quot;Python.connectToMDA.executor&quot;: &quot;Run&quot;,
+    &quot;Python.convertSpeech.executor&quot;: &quot;Run&quot;,
+    &quot;Python.expend_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.makeDB.executor&quot;: &quot;Run&quot;,
+    &quot;Python.model3clean.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mymodel3E.executor&quot;: &quot;Run&quot;,
+    &quot;Python.organize_dataset.executor&quot;: &quot;Run&quot;,
+    &quot;Python.predict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.speechOfline.executor&quot;: &quot;Run&quot;,
+    &quot;Python.testModel3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/project/projectAID&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\project\myModel\mycode\model" />
