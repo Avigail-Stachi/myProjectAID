@@ -13,6 +13,7 @@ map_json_path = "../../data/cases.json"
 UNCERTAINTY_THRESHOLD = 0.6
 CLOSE_CONFIDENCE_DIFF = 0.05
 
+
 def load_and_predict(new_sentence, model_path="./saved_model.keras"):
     # טעינת המודל
     model = tf.keras.models.load_model(model_path)
@@ -22,6 +23,7 @@ def load_and_predict(new_sentence, model_path="./saved_model.keras"):
     predicted_class = prediction.argmax()  # המחלקה עם ההסתברות הגבוהה ביותר
 
     return predicted_class, prediction[0]  # מחזיר את המחלקה ואת מערך ההסתברויות
+
 
 cpr1 = "My grandfather collapsed and isn’t breathing—what should I do"
 cpr2 = "Someone just passed out at the gym and has no pulse—I think I need to start chest compressions"
@@ -58,7 +60,7 @@ burns2 = "Hot oil splashed on his chest and the skin is peeling and red"
 
 fractures1 = "He fell off his bike and his arm looks bent and swollen—it might be broken"
 fractures2 = "I heard a crack when I twisted my ankle and now I can’t walk on it"
-new_sentence ="There's a knife here, my child is bleeding from his hand."
+new_sentence = "There's a knife here, my child is bleeding from his hand."
 drowning_choking = "He suddenly collapsed while eating and isn't responding"
 burns_fainting = "She fell into the campfire but says it doesn’t hurt much"
 drowning_fainting = "My cousin passed out and hit his head near the pool"
@@ -72,7 +74,7 @@ choking_fainting = "She started choking, then fainted, and now she’s breathing
 rabies_wounds = "He found a scratch on his leg after walking near the dog shelter, and it looks infected"
 bee_sting_snake_bite = "Her lips are swelling and she's dizzy after a hike in the woods"
 
-new_sentence=fainting2
+new_sentence = drowning1
 class_idx, probabilities = load_and_predict(new_sentence, model_path)
 
 with open(map_json_path, 'r', encoding='utf-8') as f:
