@@ -155,8 +155,13 @@ ENV = os.getenv("APP_ENV", "development")  # ברירת מחדל: פיתוח
 #או להגדיר משתנה סביבה
 
 
-account_sid ='AC6b153d179999949c8d24dc9b08b3182e'
-auth_token = '3013420d1c67594c5b6d9256940d9af8'
+from dotenv import load_dotenv
+
+load_dotenv()  # טוען את המשתנים מהקובץ .env
+
+twilio_sid = os.getenv("TWILIO_ACCOUNT_SID")
+twilio_token = os.getenv("TWILIO_AUTH_TOKEN")
+
 client = Client(account_sid, auth_token)
 
 text = ("Test message from a first-aid mobile app development project.\n"

@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2ebcfb7-f315-4c1b-ae7c-e28b066d522f" name="Changes" comment="update cllasify model of texts&#10;start cnn model&#10;dataaa">
-      <change beforePath="$PROJECT_DIR$/mycode/cnn/datasetBurns_fix/burn_levels.zip" beforeDir="false" />
+    <list default="true" id="e2ebcfb7-f315-4c1b-ae7c-e28b066d522f" name="Changes" comment="organize cnn data">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mycode/connectToMDA.py" beforeDir="false" afterPath="$PROJECT_DIR$/mycode/connectToMDA.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -276,7 +277,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746736159193</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="organize cnn data">
+      <option name="closed" value="true" />
+      <created>1746795384146</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1746795384146</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -313,7 +322,8 @@
     <MESSAGE value="start make DB" />
     <MESSAGE value="expend and clean dataset of texts" />
     <MESSAGE value="update cllasify model of texts&#10;start cnn model&#10;dataaa" />
-    <option name="LAST_COMMIT_MESSAGE" value="update cllasify model of texts&#10;start cnn model&#10;dataaa" />
+    <MESSAGE value="organize cnn data" />
+    <option name="LAST_COMMIT_MESSAGE" value="organize cnn data" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
